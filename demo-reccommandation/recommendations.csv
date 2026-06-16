@@ -1,0 +1,930 @@
+id,product_name,image,link,parsed,caption,tier,component_name,rigid_or_soft,is_reusable,dim_l_mm,dim_w_mm,dim_h_mm,shape,volume_cm3,materials,n_materials,component_mass_g,component_carbon_kg,component_water_l
+1,Charlotte Tilbury,demo-reccommandation/1.webp,https://www.mecca.com/en-au/charlotte-tilbury/kissing-V-051603/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the image:
+
+The product is presented in a cylindrical tube with a rounded base, colored a warm copper. It features a twist-up mechanism for opening and a pointed applicator tip, approximately 3.5 inches in length.",PP,Lipstick Tube (Aluminium),Rigid,,125.0,20.0,20.0,cylindrical,50.0,Aluminium:28.0g,1,28.0,0.5953,66.55
+1,Charlotte Tilbury,demo-reccommandation/1.webp,https://www.mecca.com/en-au/charlotte-tilbury/kissing-V-051603/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the image:
+
+The product is presented in a cylindrical tube with a rounded base, colored a warm copper. It features a twist-up mechanism for opening and a pointed applicator tip, approximately 3.5 inches in length.",PP,Twist Base (Polypropylene),Rigid,True,45.0,30.0,30.0,cylindrical,40.5,Polypropylene:8.0g,1,8.0,0.0183,3.19
+1,Charlotte Tilbury,demo-reccommandation/1.webp,https://www.mecca.com/en-au/charlotte-tilbury/kissing-V-051603/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the image:
+
+The product is presented in a cylindrical tube with a rounded base, colored a warm copper. It features a twist-up mechanism for opening and a pointed applicator tip, approximately 3.5 inches in length.",PP,Cap (Aluminium with Silicone Seal),Rigid,True,25.0,25.0,15.0,box,9.38,Aluminium:18.0g; Rubber - Silicone:2.0g,2,20.0,0.3902,51.83
+1,Charlotte Tilbury,demo-reccommandation/1.webp,https://www.mecca.com/en-au/charlotte-tilbury/kissing-V-051603/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the image:
+
+The product is presented in a cylindrical tube with a rounded base, colored a warm copper. It features a twist-up mechanism for opening and a pointed applicator tip, approximately 3.5 inches in length.",PP,Inner Seal Liner (Paper),Soft,,12.0,6.0,1.0,flat,0.07,Paper - Tissue:0.5g,1,0.5,0.0017,0.64
+1,Charlotte Tilbury,demo-reccommandation/1.webp,https://www.mecca.com/en-au/charlotte-tilbury/kissing-V-051603/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the image:
+
+The product is presented in a cylindrical tube with a rounded base, colored a warm copper. It features a twist-up mechanism for opening and a pointed applicator tip, approximately 3.5 inches in length.",SP,Outer Carton Box,Rigid,,150.0,85.0,35.0,box,446.25,Folding Box Board:28.0g,1,28.0,0.0689,14.01
+1,Charlotte Tilbury,demo-reccommandation/1.webp,https://www.mecca.com/en-au/charlotte-tilbury/kissing-V-051603/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the image:
+
+The product is presented in a cylindrical tube with a rounded base, colored a warm copper. It features a twist-up mechanism for opening and a pointed applicator tip, approximately 3.5 inches in length.",SP,Product Information Leaflet,Soft,,120.0,85.0,2.0,flat,20.4,Paper - Bleached Kraft:3.0g,1,3.0,0.0052,2.76
+1,Charlotte Tilbury,demo-reccommandation/1.webp,https://www.mecca.com/en-au/charlotte-tilbury/kissing-V-051603/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the image:
+
+The product is presented in a cylindrical tube with a rounded base, colored a warm copper. It features a twist-up mechanism for opening and a pointed applicator tip, approximately 3.5 inches in length.",TP,Master Shipping Carton (24 units),Rigid,,420.0,300.0,180.0,box,22680.0,Corrugated:480.0g,1,480.0,0.8016,128.57
+1,Charlotte Tilbury,demo-reccommandation/1.webp,https://www.mecca.com/en-au/charlotte-tilbury/kissing-V-051603/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the image:
+
+The product is presented in a cylindrical tube with a rounded base, colored a warm copper. It features a twist-up mechanism for opening and a pointed applicator tip, approximately 3.5 inches in length.",TP,Stretch Wrap (LDPE),Soft,,600.0,200.0,0.1,flat,12.0,Low-Density Polyethylene:85.0g,1,85.0,0.193,52.26
+1,Charlotte Tilbury,demo-reccommandation/1.webp,https://www.mecca.com/en-au/charlotte-tilbury/kissing-V-051603/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the image:
+
+The product is presented in a cylindrical tube with a rounded base, colored a warm copper. It features a twist-up mechanism for opening and a pointed applicator tip, approximately 3.5 inches in length.",TP,Wooden Pallet (Softwood),Rigid,True,1200.0,800.0,150.0,flat,144000.0,Softwood:1850.0g,1,1850.0,799.1445,76.78
+2,Yves Saint Laurent,demo-reccommandation/2.webp,https://www.mecca.com/en-au/yves-saint-laurent/ysl-lovenude-lip-blusher-V-083724/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The image shows two cylindrical containers, each with a rounded base and a slightly tapered top.  A sliding closure mechanism, featuring a silver accent, secures the lipstick stick, which is approximately 10 centimeters in length.",PP,Lipstick Barrel (Tube Body),Rigid,,100.0,12.0,12.0,cylindrical,14.4,Polypropylene:8.2g,1,8.2,0.0188,3.27
+2,Yves Saint Laurent,demo-reccommandation/2.webp,https://www.mecca.com/en-au/yves-saint-laurent/ysl-lovenude-lip-blusher-V-083724/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The image shows two cylindrical containers, each with a rounded base and a slightly tapered top.  A sliding closure mechanism, featuring a silver accent, secures the lipstick stick, which is approximately 10 centimeters in length.",PP,Lipstick Twist Base,Rigid,,35.0,18.0,18.0,cylindrical,11.34,Acrylonitrile Butadiene Styrene:6.5g,1,6.5,0.0339,15.87
+2,Yves Saint Laurent,demo-reccommandation/2.webp,https://www.mecca.com/en-au/yves-saint-laurent/ysl-lovenude-lip-blusher-V-083724/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The image shows two cylindrical containers, each with a rounded base and a slightly tapered top.  A sliding closure mechanism, featuring a silver accent, secures the lipstick stick, which is approximately 10 centimeters in length.",PP,Lipstick Cap,Rigid,,28.0,22.0,14.0,box,8.62,Polypropylene:4.1g,1,4.1,0.0094,1.64
+2,Yves Saint Laurent,demo-reccommandation/2.webp,https://www.mecca.com/en-au/yves-saint-laurent/ysl-lovenude-lip-blusher-V-083724/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The image shows two cylindrical containers, each with a rounded base and a slightly tapered top.  A sliding closure mechanism, featuring a silver accent, secures the lipstick stick, which is approximately 10 centimeters in length.",PP,Lipstick Seal (Inner Foil),,,12.0,12.0,0.3,flat,0.04,Aluminium:0.8g,1,0.8,0.017,1.9
+2,Yves Saint Laurent,demo-reccommandation/2.webp,https://www.mecca.com/en-au/yves-saint-laurent/ysl-lovenude-lip-blusher-V-083724/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The image shows two cylindrical containers, each with a rounded base and a slightly tapered top.  A sliding closure mechanism, featuring a silver accent, secures the lipstick stick, which is approximately 10 centimeters in length.",PP,Lipstick Label (Wrap),,,52.0,35.0,1.2,flat,2.18,Paper - Label:1.8g,1,1.8,0.0034,3.14
+2,Yves Saint Laurent,demo-reccommandation/2.webp,https://www.mecca.com/en-au/yves-saint-laurent/ysl-lovenude-lip-blusher-V-083724/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The image shows two cylindrical containers, each with a rounded base and a slightly tapered top.  A sliding closure mechanism, featuring a silver accent, secures the lipstick stick, which is approximately 10 centimeters in length.",SP,Carton Box (Folding),,,145.0,92.0,28.0,box,373.52,Folding Box Board:22.5g,1,22.5,0.0553,11.26
+2,Yves Saint Laurent,demo-reccommandation/2.webp,https://www.mecca.com/en-au/yves-saint-laurent/ysl-lovenude-lip-blusher-V-083724/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The image shows two cylindrical containers, each with a rounded base and a slightly tapered top.  A sliding closure mechanism, featuring a silver accent, secures the lipstick stick, which is approximately 10 centimeters in length.",SP,Carton Insert (Tissue Wrap),,,42.0,28.0,2.5,flat,2.94,Paper - Tissue:2.1g,1,2.1,0.0073,2.7
+2,Yves Saint Laurent,demo-reccommandation/2.webp,https://www.mecca.com/en-au/yves-saint-laurent/ysl-lovenude-lip-blusher-V-083724/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The image shows two cylindrical containers, each with a rounded base and a slightly tapered top.  A sliding closure mechanism, featuring a silver accent, secures the lipstick stick, which is approximately 10 centimeters in length.",TP,Master Carton (Shipping Box),,,385.0,262.0,125.0,box,12608.75,Corrugated:485.0g,1,485.0,0.8099,129.91
+2,Yves Saint Laurent,demo-reccommandation/2.webp,https://www.mecca.com/en-au/yves-saint-laurent/ysl-lovenude-lip-blusher-V-083724/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The image shows two cylindrical containers, each with a rounded base and a slightly tapered top.  A sliding closure mechanism, featuring a silver accent, secures the lipstick stick, which is approximately 10 centimeters in length.",TP,Stretch Wrap (Pallet Wrap),,,180.0,360.0,0.15,flat,9.72,Low-Density Polyethylene:125.0g,1,125.0,0.2838,76.85
+2,Yves Saint Laurent,demo-reccommandation/2.webp,https://www.mecca.com/en-au/yves-saint-laurent/ysl-lovenude-lip-blusher-V-083724/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The image shows two cylindrical containers, each with a rounded base and a slightly tapered top.  A sliding closure mechanism, featuring a silver accent, secures the lipstick stick, which is approximately 10 centimeters in length.",TP,Wooden Pallet,,,1200.0,800.0,150.0,flat,144000.0,Hardwood:18500.0g,1,18500.0,7345.795,753.5
+3,NARS,demo-reccommandation/3.webp,https://www.mecca.com/en-au/nars/explicit-lipstick-V-069953/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical tube container, approximately 3.5 inches tall, with a black exterior and a silver-printed logo. A rotating base closure mechanism secures the lipstick stick within the tube.",PP,Lipstick Tube Body,Rigid,,48.0,12.0,42.0,box,24.19,Polypropylene:8.2g,1,8.2,0.0188,3.27
+3,NARS,demo-reccommandation/3.webp,https://www.mecca.com/en-au/nars/explicit-lipstick-V-069953/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical tube container, approximately 3.5 inches tall, with a black exterior and a silver-printed logo. A rotating base closure mechanism secures the lipstick stick within the tube.",PP,Lipstick Bullet Mould,Rigid,,12.0,8.0,6.0,cylindrical,0.58,Polypropylene:3.1g,1,3.1,0.0071,1.24
+3,NARS,demo-reccommandation/3.webp,https://www.mecca.com/en-au/nars/explicit-lipstick-V-069953/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical tube container, approximately 3.5 inches tall, with a black exterior and a silver-printed logo. A rotating base closure mechanism secures the lipstick stick within the tube.",PP,Twist Base Mechanism,Rigid,,24.0,8.0,6.0,cylindrical,1.15,Polypropylene:4.2g,1,4.2,0.0096,1.68
+3,NARS,demo-reccommandation/3.webp,https://www.mecca.com/en-au/nars/explicit-lipstick-V-069953/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical tube container, approximately 3.5 inches tall, with a black exterior and a silver-printed logo. A rotating base closure mechanism secures the lipstick stick within the tube.",PP,Lipstick Stick (Product),Soft,,12.0,8.0,6.0,cylindrical,0.58,Paraffin Wax:2.8g,1,2.8,0.0036,0.33
+3,NARS,demo-reccommandation/3.webp,https://www.mecca.com/en-au/nars/explicit-lipstick-V-069953/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical tube container, approximately 3.5 inches tall, with a black exterior and a silver-printed logo. A rotating base closure mechanism secures the lipstick stick within the tube.",PP,Outer Cap (Twist Base),Rigid,,12.0,8.0,6.0,cylindrical,0.58,Polypropylene:2.1g,1,2.1,0.0048,0.84
+3,NARS,demo-reccommandation/3.webp,https://www.mecca.com/en-au/nars/explicit-lipstick-V-069953/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical tube container, approximately 3.5 inches tall, with a black exterior and a silver-printed logo. A rotating base closure mechanism secures the lipstick stick within the tube.",PP,Printed Label (Tube),Soft,,48.0,12.0,2.0,flat,1.15,Paper - Label:0.8g,1,0.8,0.0015,1.4
+3,NARS,demo-reccommandation/3.webp,https://www.mecca.com/en-au/nars/explicit-lipstick-V-069953/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical tube container, approximately 3.5 inches tall, with a black exterior and a silver-printed logo. A rotating base closure mechanism secures the lipstick stick within the tube.",SP,Carton Box (Unit),Rigid,,240.0,160.0,40.0,flat,1536.0,Folding Box Board:28.0g,1,28.0,0.0689,14.01
+3,NARS,demo-reccommandation/3.webp,https://www.mecca.com/en-au/nars/explicit-lipstick-V-069953/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical tube container, approximately 3.5 inches tall, with a black exterior and a silver-printed logo. A rotating base closure mechanism secures the lipstick stick within the tube.",SP,Product Insert Leaflet,Soft,,120.0,80.0,20.0,flat,192.0,Paper - Bleached Kraft:2.4g,1,2.4,0.0042,2.21
+3,NARS,demo-reccommandation/3.webp,https://www.mecca.com/en-au/nars/explicit-lipstick-V-069953/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical tube container, approximately 3.5 inches tall, with a black exterior and a silver-printed logo. A rotating base closure mechanism secures the lipstick stick within the tube.",TP,Retail Carton (Master),Rigid,,360.0,240.0,60.0,flat,5184.0,Corrugated:185.0g,1,185.0,0.309,49.55
+3,NARS,demo-reccommandation/3.webp,https://www.mecca.com/en-au/nars/explicit-lipstick-V-069953/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical tube container, approximately 3.5 inches tall, with a black exterior and a silver-printed logo. A rotating base closure mechanism secures the lipstick stick within the tube.",TP,Tissue Wrap (Inner),Soft,,180.0,90.0,30.0,box,486.0,Paper - Tissue:4.2g,1,4.2,0.0145,5.41
+3,NARS,demo-reccommandation/3.webp,https://www.mecca.com/en-au/nars/explicit-lipstick-V-069953/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical tube container, approximately 3.5 inches tall, with a black exterior and a silver-printed logo. A rotating base closure mechanism secures the lipstick stick within the tube.",TP,Corrugated Divider Sheet,Rigid,,120.0,80.0,20.0,flat,192.0,Corrugated:12.5g,1,12.5,0.0209,3.35
+4,Charlotte Tilbury,demo-reccommandation/4.webp,https://www.mecca.com/en-au/charlotte-tilbury/blush-balm-lip-tint-V-082540/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the photo:
+
+The product consists of a rectangular, rose-gold container with a twist-up base and a matching rose-gold tube containing a lipstick stick. The lipstick stick is a muted, rosy-beige colour and extends approximately 2.5 centimeters from the tube.",PP,Lipstick Tube (Barrel),Rigid,False,72.0,12.0,12.0,cylindrical,10.37,Polypropylene:4.2g,1,4.2,0.0096,1.68
+4,Charlotte Tilbury,demo-reccommandation/4.webp,https://www.mecca.com/en-au/charlotte-tilbury/blush-balm-lip-tint-V-082540/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the photo:
+
+The product consists of a rectangular, rose-gold container with a twist-up base and a matching rose-gold tube containing a lipstick stick. The lipstick stick is a muted, rosy-beige colour and extends approximately 2.5 centimeters from the tube.",PP,Lipstick Stick (Product Fill),Soft,False,65.0,8.0,8.0,cylindrical,4.16,Paraffin Wax:2.8g; Talc:0.4g,2,3.2,0.1358,0.36
+4,Charlotte Tilbury,demo-reccommandation/4.webp,https://www.mecca.com/en-au/charlotte-tilbury/blush-balm-lip-tint-V-082540/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the photo:
+
+The product consists of a rectangular, rose-gold container with a twist-up base and a matching rose-gold tube containing a lipstick stick. The lipstick stick is a muted, rosy-beige colour and extends approximately 2.5 centimeters from the tube.",PP,Twist-Up Base (Housing),Rigid,False,28.0,12.0,12.0,cylindrical,4.03,Polypropylene:3.1g,1,3.1,0.0071,1.24
+4,Charlotte Tilbury,demo-reccommandation/4.webp,https://www.mecca.com/en-au/charlotte-tilbury/blush-balm-lip-tint-V-082540/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the photo:
+
+The product consists of a rectangular, rose-gold container with a twist-up base and a matching rose-gold tube containing a lipstick stick. The lipstick stick is a muted, rosy-beige colour and extends approximately 2.5 centimeters from the tube.",PP,Cap (Closure),Rigid,False,18.0,12.0,8.0,box,1.73,Polypropylene:2.4g,1,2.4,0.0055,0.96
+4,Charlotte Tilbury,demo-reccommandation/4.webp,https://www.mecca.com/en-au/charlotte-tilbury/blush-balm-lip-tint-V-082540/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the photo:
+
+The product consists of a rectangular, rose-gold container with a twist-up base and a matching rose-gold tube containing a lipstick stick. The lipstick stick is a muted, rosy-beige colour and extends approximately 2.5 centimeters from the tube.",PP,Inner Seal (Wax Disc),Soft,False,12.0,12.0,2.0,flat,0.29,Paraffin Wax:1.2g,1,1.2,0.0015,0.14
+4,Charlotte Tilbury,demo-reccommandation/4.webp,https://www.mecca.com/en-au/charlotte-tilbury/blush-balm-lip-tint-V-082540/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the photo:
+
+The product consists of a rectangular, rose-gold container with a twist-up base and a matching rose-gold tube containing a lipstick stick. The lipstick stick is a muted, rosy-beige colour and extends approximately 2.5 centimeters from the tube.",SP,Carton Box (Unit Retail),Rigid,False,145.0,85.0,55.0,box,677.88,Folding Box Board:18.5g,1,18.5,0.0455,9.26
+4,Charlotte Tilbury,demo-reccommandation/4.webp,https://www.mecca.com/en-au/charlotte-tilbury/blush-balm-lip-tint-V-082540/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the photo:
+
+The product consists of a rectangular, rose-gold container with a twist-up base and a matching rose-gold tube containing a lipstick stick. The lipstick stick is a muted, rosy-beige colour and extends approximately 2.5 centimeters from the tube.",SP,Product Insert Leaflet,Soft,False,105.0,70.0,2.0,flat,14.7,Paper - Bleached Kraft:1.8g,1,1.8,0.0031,1.65
+4,Charlotte Tilbury,demo-reccommandation/4.webp,https://www.mecca.com/en-au/charlotte-tilbury/blush-balm-lip-tint-V-082540/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the photo:
+
+The product consists of a rectangular, rose-gold container with a twist-up base and a matching rose-gold tube containing a lipstick stick. The lipstick stick is a muted, rosy-beige colour and extends approximately 2.5 centimeters from the tube.",TP,"Master Carton (Shipping Case, 24 units)",Rigid,False,385.0,265.0,185.0,box,18874.62,Corrugated:425.0g,1,425.0,0.7097,113.84
+4,Charlotte Tilbury,demo-reccommandation/4.webp,https://www.mecca.com/en-au/charlotte-tilbury/blush-balm-lip-tint-V-082540/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the photo:
+
+The product consists of a rectangular, rose-gold container with a twist-up base and a matching rose-gold tube containing a lipstick stick. The lipstick stick is a muted, rosy-beige colour and extends approximately 2.5 centimeters from the tube.",TP,Stretch Wrap (Pallet Wrap),Soft,False,180.0,360.0,0.3,flat,19.44,Low-Density Polyethylene:85.0g,1,85.0,0.193,52.26
+4,Charlotte Tilbury,demo-reccommandation/4.webp,https://www.mecca.com/en-au/charlotte-tilbury/blush-balm-lip-tint-V-082540/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the photo:
+
+The product consists of a rectangular, rose-gold container with a twist-up base and a matching rose-gold tube containing a lipstick stick. The lipstick stick is a muted, rosy-beige colour and extends approximately 2.5 centimeters from the tube.",TP,Wooden Pallet (Softwood),Soft,True,1200.0,800.0,150.0,flat,144000.0,Softwood:1850.0g,1,1850.0,799.1445,76.78
+5,ILIA Beauty,demo-reccommandation/5.webp,https://www.mecca.com/en-au/ilia-beauty/lip-sketch-hydrating-crayon-V-069524/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The photo shows a cylindrical cosmetic stick, approximately 15 centimeters long, with a red-toned tip and a wooden barrel. It features a simple, unadorned design and a twist-based closure at the base.",PP,Lipstick Barrel (Wooden Stick),Rigid,,150.0,12.0,12.0,cylindrical,21.6,Bamboo:8.5g,1,8.5,5.5377,1.04
+5,ILIA Beauty,demo-reccommandation/5.webp,https://www.mecca.com/en-au/ilia-beauty/lip-sketch-hydrating-crayon-V-069524/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The photo shows a cylindrical cosmetic stick, approximately 15 centimeters long, with a red-toned tip and a wooden barrel. It features a simple, unadorned design and a twist-based closure at the base.",PP,Lipstick Tip (Wax Core),Rigid,,12.0,4.0,4.0,cylindrical,0.19,Paraffin Wax:2.8g,1,2.8,0.0036,0.33
+5,ILIA Beauty,demo-reccommandation/5.webp,https://www.mecca.com/en-au/ilia-beauty/lip-sketch-hydrating-crayon-V-069524/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The photo shows a cylindrical cosmetic stick, approximately 15 centimeters long, with a red-toned tip and a wooden barrel. It features a simple, unadorned design and a twist-based closure at the base.",PP,Closure Cap (Twist-Based),Rigid,True,18.0,12.0,8.0,box,1.73,Polypropylene:3.2g,1,3.2,0.0073,1.28
+5,ILIA Beauty,demo-reccommandation/5.webp,https://www.mecca.com/en-au/ilia-beauty/lip-sketch-hydrating-crayon-V-069524/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The photo shows a cylindrical cosmetic stick, approximately 15 centimeters long, with a red-toned tip and a wooden barrel. It features a simple, unadorned design and a twist-based closure at the base.",PP,Inner Seal (Waxed Paper),Soft,,12.0,6.0,1.0,flat,0.07,Paper - Tissue:0.4g,1,0.4,0.0014,0.52
+5,ILIA Beauty,demo-reccommandation/5.webp,https://www.mecca.com/en-au/ilia-beauty/lip-sketch-hydrating-crayon-V-069524/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The photo shows a cylindrical cosmetic stick, approximately 15 centimeters long, with a red-toned tip and a wooden barrel. It features a simple, unadorned design and a twist-based closure at the base.",SP,Retail Carton Box,Rigid,,120.0,85.0,35.0,box,357.0,Folding Box Board:18.5g,1,18.5,0.0455,9.26
+5,ILIA Beauty,demo-reccommandation/5.webp,https://www.mecca.com/en-au/ilia-beauty/lip-sketch-hydrating-crayon-V-069524/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The photo shows a cylindrical cosmetic stick, approximately 15 centimeters long, with a red-toned tip and a wooden barrel. It features a simple, unadorned design and a twist-based closure at the base.",SP,Product Insert Leaflet,Soft,,90.0,60.0,2.0,flat,10.8,Paper - Bleached Kraft:1.2g,1,1.2,0.0021,1.1
+5,ILIA Beauty,demo-reccommandation/5.webp,https://www.mecca.com/en-au/ilia-beauty/lip-sketch-hydrating-crayon-V-069524/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The photo shows a cylindrical cosmetic stick, approximately 15 centimeters long, with a red-toned tip and a wooden barrel. It features a simple, unadorned design and a twist-based closure at the base.",TP,Master Carton (48 Units),Rigid,,580.0,360.0,220.0,box,45936.0,Corrugated:420.0g,1,420.0,0.7014,112.5
+5,ILIA Beauty,demo-reccommandation/5.webp,https://www.mecca.com/en-au/ilia-beauty/lip-sketch-hydrating-crayon-V-069524/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The photo shows a cylindrical cosmetic stick, approximately 15 centimeters long, with a red-toned tip and a wooden barrel. It features a simple, unadorned design and a twist-based closure at the base.",TP,Stretch Wrap (Pallet),Soft,,1200.0,850.0,150.0,flat,153000.0,Low-Density Polyethylene:180.0g,1,180.0,0.4086,110.66
+5,ILIA Beauty,demo-reccommandation/5.webp,https://www.mecca.com/en-au/ilia-beauty/lip-sketch-hydrating-crayon-V-069524/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The photo shows a cylindrical cosmetic stick, approximately 15 centimeters long, with a red-toned tip and a wooden barrel. It features a simple, unadorned design and a twist-based closure at the base.",TP,Wooden Pallet (Softwood),Rigid,True,1200.0,800.0,150.0,flat,144000.0,Softwood:22000.0g,1,22000.0,9503.34,913.0
+6,Charlotte Tilbury,demo-reccommandation/6.webp,https://www.mecca.com/en-au/charlotte-tilbury/hot-lips-lipstick-V-051589/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is presented in a cylindrical, rose-gold container with a screw-cap closure. The lipstick itself is a muted pink shade and appears to be approximately 3 inches in length.",PP,Lipstick Tube (Cylindrical Container),Rigid,,85,22,85,box,158.95,Polypropylene:12.5g,1,12.5,0.0286,4.99
+6,Charlotte Tilbury,demo-reccommandation/6.webp,https://www.mecca.com/en-au/charlotte-tilbury/hot-lips-lipstick-V-051589/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is presented in a cylindrical, rose-gold container with a screw-cap closure. The lipstick itself is a muted pink shade and appears to be approximately 3 inches in length.",PP,Lipstick Bullet (Formulation Core),Soft,,32,4,4,cylindrical,0.51,Paraffin Wax:2.8g; Talc:0.5g,2,3.3,0.1688,0.37
+6,Charlotte Tilbury,demo-reccommandation/6.webp,https://www.mecca.com/en-au/charlotte-tilbury/hot-lips-lipstick-V-051589/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is presented in a cylindrical, rose-gold container with a screw-cap closure. The lipstick itself is a muted pink shade and appears to be approximately 3 inches in length.",PP,Cap (Screw-Closure),Rigid,True,20,20,15,box,6.0,Polypropylene:4.2g,1,4.2,0.0096,1.68
+6,Charlotte Tilbury,demo-reccommandation/6.webp,https://www.mecca.com/en-au/charlotte-tilbury/hot-lips-lipstick-V-051589/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is presented in a cylindrical, rose-gold container with a screw-cap closure. The lipstick itself is a muted pink shade and appears to be approximately 3 inches in length.",PP,Inner Seal Liner,Soft,,8,8,2,flat,0.13,Low-Density Polyethylene:0.8g,1,0.8,0.0018,0.49
+6,Charlotte Tilbury,demo-reccommandation/6.webp,https://www.mecca.com/en-au/charlotte-tilbury/hot-lips-lipstick-V-051589/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is presented in a cylindrical, rose-gold container with a screw-cap closure. The lipstick itself is a muted pink shade and appears to be approximately 3 inches in length.",PP,Product Label (Wrap),Soft,,60,40,2,flat,4.8,Paper - Label:1.2g; Ink - Water Based:0.3g,2,1.5,0.0031,2.17
+6,Charlotte Tilbury,demo-reccommandation/6.webp,https://www.mecca.com/en-au/charlotte-tilbury/hot-lips-lipstick-V-051589/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is presented in a cylindrical, rose-gold container with a screw-cap closure. The lipstick itself is a muted pink shade and appears to be approximately 3 inches in length.",SP,Retail Carton Box (Folding),Soft,,120,85,35,box,357.0,Folding Box Board:28.5g; Ink - Water Based:0.8g,2,29.3,0.0721,14.49
+6,Charlotte Tilbury,demo-reccommandation/6.webp,https://www.mecca.com/en-au/charlotte-tilbury/hot-lips-lipstick-V-051589/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is presented in a cylindrical, rose-gold container with a screw-cap closure. The lipstick itself is a muted pink shade and appears to be approximately 3 inches in length.",SP,Tissue Paper Insert,Soft,,100,80,15,flat,120.0,Paper - Tissue:3.2g,1,3.2,0.0111,4.12
+6,Charlotte Tilbury,demo-reccommandation/6.webp,https://www.mecca.com/en-au/charlotte-tilbury/hot-lips-lipstick-V-051589/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is presented in a cylindrical, rose-gold container with a screw-cap closure. The lipstick itself is a muted pink shade and appears to be approximately 3 inches in length.",TP,"Master Carton (Shipping Case, 24 units)",Rigid,,380,280,150,box,15960.0,Corrugated:420.0g,1,420.0,0.7014,112.5
+6,Charlotte Tilbury,demo-reccommandation/6.webp,https://www.mecca.com/en-au/charlotte-tilbury/hot-lips-lipstick-V-051589/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is presented in a cylindrical, rose-gold container with a screw-cap closure. The lipstick itself is a muted pink shade and appears to be approximately 3 inches in length.",TP,Corrugated Divider Insert (12-cell),Rigid,,360,250,180,box,16200.0,Corrugated:280.0g,1,280.0,0.4676,75.0
+6,Charlotte Tilbury,demo-reccommandation/6.webp,https://www.mecca.com/en-au/charlotte-tilbury/hot-lips-lipstick-V-051589/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is presented in a cylindrical, rose-gold container with a screw-cap closure. The lipstick itself is a muted pink shade and appears to be approximately 3 inches in length.",TP,Stretch Wrap (Pallet Wrap),Soft,,180,900,80,box,12960.0,Low-Density Polyethylene:120.0g,1,120.0,0.2724,73.78
+6,Charlotte Tilbury,demo-reccommandation/6.webp,https://www.mecca.com/en-au/charlotte-tilbury/hot-lips-lipstick-V-051589/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is presented in a cylindrical, rose-gold container with a screw-cap closure. The lipstick itself is a muted pink shade and appears to be approximately 3 inches in length.",TP,Wooden Pallet (Softwood),Soft,True,1200,800,150,flat,144000.0,Softwood:22000.0g,1,22000.0,9503.34,913.0
+7,Tom Ford,demo-reccommandation/7.webp,https://www.mecca.com/en-au/tom-ford/slim-lip-color-shine-V-065069/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption based solely on the visible elements in the photo:
+
+The product is presented in a rectangular, dark-coloured tube with a gold-coloured inner mechanism. It features a twist-based closure and appears to be approximately 12 centimeters in length.",PP,Lipstick Tube (Barrel),Rigid,False,120,12,12,cylindrical,17.28,Polypropylene:8.2g,1,8.2,0.0188,3.27
+7,Tom Ford,demo-reccommandation/7.webp,https://www.mecca.com/en-au/tom-ford/slim-lip-color-shine-V-065069/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption based solely on the visible elements in the photo:
+
+The product is presented in a rectangular, dark-coloured tube with a gold-coloured inner mechanism. It features a twist-based closure and appears to be approximately 12 centimeters in length.",PP,Lipstick Stick (Formulation),Soft,False,6,6,6,box,0.22,Paraffin Wax:2.1g; Talc:0.8g,2,2.9,0.267,0.31
+7,Tom Ford,demo-reccommandation/7.webp,https://www.mecca.com/en-au/tom-ford/slim-lip-color-shine-V-065069/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption based solely on the visible elements in the photo:
+
+The product is presented in a rectangular, dark-coloured tube with a gold-coloured inner mechanism. It features a twist-based closure and appears to be approximately 12 centimeters in length.",PP,Twist-Based Closure (Top Cap),Rigid,False,25,15,12,cylindrical,4.5,Polypropylene:4.1g,1,4.1,0.0094,1.64
+7,Tom Ford,demo-reccommandation/7.webp,https://www.mecca.com/en-au/tom-ford/slim-lip-color-shine-V-065069/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption based solely on the visible elements in the photo:
+
+The product is presented in a rectangular, dark-coloured tube with a gold-coloured inner mechanism. It features a twist-based closure and appears to be approximately 12 centimeters in length.",PP,Inner Mechanism (Screw Base),Rigid,False,18,8,8,cylindrical,1.15,Polypropylene:3.2g,1,3.2,0.0073,1.28
+7,Tom Ford,demo-reccommandation/7.webp,https://www.mecca.com/en-au/tom-ford/slim-lip-color-shine-V-065069/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption based solely on the visible elements in the photo:
+
+The product is presented in a rectangular, dark-coloured tube with a gold-coloured inner mechanism. It features a twist-based closure and appears to be approximately 12 centimeters in length.",PP,Paper Label (Wrap),Soft,False,55,32,12,box,21.12,Paper - Label:1.2g; Ink - Water Based:0.3g,2,1.5,0.0031,2.17
+7,Tom Ford,demo-reccommandation/7.webp,https://www.mecca.com/en-au/tom-ford/slim-lip-color-shine-V-065069/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption based solely on the visible elements in the photo:
+
+The product is presented in a rectangular, dark-coloured tube with a gold-coloured inner mechanism. It features a twist-based closure and appears to be approximately 12 centimeters in length.",SP,Folding Carton Box,Rigid,False,85,52,22,box,97.24,Folding Box Board:18.5g; Ink - Water Based:0.8g,2,19.3,0.0475,9.49
+7,Tom Ford,demo-reccommandation/7.webp,https://www.mecca.com/en-au/tom-ford/slim-lip-color-shine-V-065069/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption based solely on the visible elements in the photo:
+
+The product is presented in a rectangular, dark-coloured tube with a gold-coloured inner mechanism. It features a twist-based closure and appears to be approximately 12 centimeters in length.",SP,Tissue Paper Insert,Soft,False,38,25,8,box,7.6,Paper - Tissue:2.1g,1,2.1,0.0073,2.7
+7,Tom Ford,demo-reccommandation/7.webp,https://www.mecca.com/en-au/tom-ford/slim-lip-color-shine-V-065069/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption based solely on the visible elements in the photo:
+
+The product is presented in a rectangular, dark-coloured tube with a gold-coloured inner mechanism. It features a twist-based closure and appears to be approximately 12 centimeters in length.",TP,Shipping Carton (24 units),Rigid,False,320,220,80,box,5632.0,Corrugated:420.0g,1,420.0,0.7014,112.5
+7,Tom Ford,demo-reccommandation/7.webp,https://www.mecca.com/en-au/tom-ford/slim-lip-color-shine-V-065069/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption based solely on the visible elements in the photo:
+
+The product is presented in a rectangular, dark-coloured tube with a gold-coloured inner mechanism. It features a twist-based closure and appears to be approximately 12 centimeters in length.",TP,Corrugated Divider Insert,Rigid,False,180,90,30,box,486.0,Corrugated:85.0g,1,85.0,0.1419,22.77
+7,Tom Ford,demo-reccommandation/7.webp,https://www.mecca.com/en-au/tom-ford/slim-lip-color-shine-V-065069/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption based solely on the visible elements in the photo:
+
+The product is presented in a rectangular, dark-coloured tube with a gold-coloured inner mechanism. It features a twist-based closure and appears to be approximately 12 centimeters in length.",TP,Stretch Wrap (Pallet),Soft,False,1200,800,,unknown,,Low-Density Polyethylene:180.0g,1,180.0,0.4086,110.66
+7,Tom Ford,demo-reccommandation/7.webp,https://www.mecca.com/en-au/tom-ford/slim-lip-color-shine-V-065069/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption based solely on the visible elements in the photo:
+
+The product is presented in a rectangular, dark-coloured tube with a gold-coloured inner mechanism. It features a twist-based closure and appears to be approximately 12 centimeters in length.",TP,Wooden Pallet (Softwood),Rigid,True,1200,800,,unknown,,Softwood:1850.0g,1,1850.0,799.1445,76.78
+8,Clinique,demo-reccommandation/8.webp,https://www.mecca.com/en-au/clinique/almost-lipstick-V-076910/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the image:
+
+The product is a cylindrical lipstick tube with a silver barrel and a silver screw-cap closure. The lipstick stick itself is a deep, muted purple colour and appears to be approximately 1.5 inches in length.",PP,Lipstick Tube (Barrel),Rigid,False,125,12,125,flat,187.5,Polypropylene:8.2g,1,8.2,0.0188,3.27
+8,Clinique,demo-reccommandation/8.webp,https://www.mecca.com/en-au/clinique/almost-lipstick-V-076910/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the image:
+
+The product is a cylindrical lipstick tube with a silver barrel and a silver screw-cap closure. The lipstick stick itself is a deep, muted purple colour and appears to be approximately 1.5 inches in length.",PP,Lipstick Stick (Product Core),Soft,False,125,4,4,cylindrical,2.0,Paraffin Wax:2.8g; Talc:0.4g,2,3.2,0.1358,0.36
+8,Clinique,demo-reccommandation/8.webp,https://www.mecca.com/en-au/clinique/almost-lipstick-V-076910/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the image:
+
+The product is a cylindrical lipstick tube with a silver barrel and a silver screw-cap closure. The lipstick stick itself is a deep, muted purple colour and appears to be approximately 1.5 inches in length.",PP,Cap (Closure),Rigid,False,12,12,12,box,1.73,Polypropylene:3.1g,1,3.1,0.0071,1.24
+8,Clinique,demo-reccommandation/8.webp,https://www.mecca.com/en-au/clinique/almost-lipstick-V-076910/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the image:
+
+The product is a cylindrical lipstick tube with a silver barrel and a silver screw-cap closure. The lipstick stick itself is a deep, muted purple colour and appears to be approximately 1.5 inches in length.",PP,Label (Wrap),Soft,False,45,12,12,cylindrical,6.48,Paper - Label:0.8g; Ink - Water Based:0.1g,2,0.9,0.0018,1.43
+8,Clinique,demo-reccommandation/8.webp,https://www.mecca.com/en-au/clinique/almost-lipstick-V-076910/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the image:
+
+The product is a cylindrical lipstick tube with a silver barrel and a silver screw-cap closure. The lipstick stick itself is a deep, muted purple colour and appears to be approximately 1.5 inches in length.",SP,Carton Box (Unit),Rigid,False,145,85,45,box,554.62,Folding Box Board:18.5g; Ink - Water Based:0.3g,2,18.8,0.0463,9.34
+8,Clinique,demo-reccommandation/8.webp,https://www.mecca.com/en-au/clinique/almost-lipstick-V-076910/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the image:
+
+The product is a cylindrical lipstick tube with a silver barrel and a silver screw-cap closure. The lipstick stick itself is a deep, muted purple colour and appears to be approximately 1.5 inches in length.",SP,Tissue Insert,Soft,False,120,80,20,flat,192.0,Paper - Tissue:1.2g,1,1.2,0.0042,1.55
+8,Clinique,demo-reccommandation/8.webp,https://www.mecca.com/en-au/clinique/almost-lipstick-V-076910/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the image:
+
+The product is a cylindrical lipstick tube with a silver barrel and a silver screw-cap closure. The lipstick stick itself is a deep, muted purple colour and appears to be approximately 1.5 inches in length.",TP,Master Carton (Shipping),Rigid,False,320,240,120,box,9216.0,Corrugated:420.0g; Ink - Water Based:2.1g,2,422.1,0.7067,113.09
+8,Clinique,demo-reccommandation/8.webp,https://www.mecca.com/en-au/clinique/almost-lipstick-V-076910/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the image:
+
+The product is a cylindrical lipstick tube with a silver barrel and a silver screw-cap closure. The lipstick stick itself is a deep, muted purple colour and appears to be approximately 1.5 inches in length.",TP,Corrugated Divider Insert,Rigid,False,180,120,40,box,864.0,Corrugated:95.0g,1,95.0,0.1586,25.45
+8,Clinique,demo-reccommandation/8.webp,https://www.mecca.com/en-au/clinique/almost-lipstick-V-076910/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the image:
+
+The product is a cylindrical lipstick tube with a silver barrel and a silver screw-cap closure. The lipstick stick itself is a deep, muted purple colour and appears to be approximately 1.5 inches in length.",TP,Stretch Wrap (Case),Soft,False,280,520,120,box,17472.0,Low-Density Polyethylene:85.0g,1,85.0,0.193,52.26
+8,Clinique,demo-reccommandation/8.webp,https://www.mecca.com/en-au/clinique/almost-lipstick-V-076910/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the image:
+
+The product is a cylindrical lipstick tube with a silver barrel and a silver screw-cap closure. The lipstick stick itself is a deep, muted purple colour and appears to be approximately 1.5 inches in length.",TP,Wooden Pallet,Rigid,True,1200,800,150,flat,144000.0,Hardwood:22000.0g,1,22000.0,8735.54,896.06
+9,MAC Cosmetics,demo-reccommandation/9.webp,https://www.mecca.com/en-au/mac-cosmetics/macximal-silky-matte-lipstick-V-065358/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The product is presented in a cylindrical, black container with a screw-cap closure. It’s approximately 3.8 inches tall and contains a lipstick stick with a muted, reddish-brown hue.",PP,Lipstick Tube (Barrel),Rigid,True,125.0,12.0,12.0,cylindrical,18.0,Polypropylene:4.2g,1,4.2,0.0096,1.68
+9,MAC Cosmetics,demo-reccommandation/9.webp,https://www.mecca.com/en-au/mac-cosmetics/macximal-silky-matte-lipstick-V-065358/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The product is presented in a cylindrical, black container with a screw-cap closure. It’s approximately 3.8 inches tall and contains a lipstick stick with a muted, reddish-brown hue.",PP,Lipstick Twist Base,Rigid,False,28.0,18.0,18.0,cylindrical,9.07,Acrylonitrile Butadiene Styrene:3.8g,1,3.8,0.0198,9.28
+9,MAC Cosmetics,demo-reccommandation/9.webp,https://www.mecca.com/en-au/mac-cosmetics/macximal-silky-matte-lipstick-V-065358/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The product is presented in a cylindrical, black container with a screw-cap closure. It’s approximately 3.8 inches tall and contains a lipstick stick with a muted, reddish-brown hue.",PP,Lipstick Twist Mechanism,Rigid,False,12.0,8.0,6.0,cylindrical,0.58,Polyoxymethylene:1.6g,1,1.6,0.0062,2.09
+9,MAC Cosmetics,demo-reccommandation/9.webp,https://www.mecca.com/en-au/mac-cosmetics/macximal-silky-matte-lipstick-V-065358/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The product is presented in a cylindrical, black container with a screw-cap closure. It’s approximately 3.8 inches tall and contains a lipstick stick with a muted, reddish-brown hue.",PP,Lipstick Cap,Rigid,True,32.0,22.0,18.0,box,12.67,Polypropylene:4.1g,1,4.1,0.0094,1.64
+9,MAC Cosmetics,demo-reccommandation/9.webp,https://www.mecca.com/en-au/mac-cosmetics/macximal-silky-matte-lipstick-V-065358/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The product is presented in a cylindrical, black container with a screw-cap closure. It’s approximately 3.8 inches tall and contains a lipstick stick with a muted, reddish-brown hue.",PP,Lipstick Inner Seal/Wax,Soft,False,,,,unknown,,Paraffin Wax:1.2g,1,1.2,0.0015,0.14
+9,MAC Cosmetics,demo-reccommandation/9.webp,https://www.mecca.com/en-au/mac-cosmetics/macximal-silky-matte-lipstick-V-065358/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The product is presented in a cylindrical, black container with a screw-cap closure. It’s approximately 3.8 inches tall and contains a lipstick stick with a muted, reddish-brown hue.",PP,Product Label (Wrap),Soft,False,48.0,32.0,1.2,flat,1.84,Paper - Label:0.8g,1,0.8,0.0015,1.4
+9,MAC Cosmetics,demo-reccommandation/9.webp,https://www.mecca.com/en-au/mac-cosmetics/macximal-silky-matte-lipstick-V-065358/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The product is presented in a cylindrical, black container with a screw-cap closure. It’s approximately 3.8 inches tall and contains a lipstick stick with a muted, reddish-brown hue.",SP,Retail Carton Box,Rigid,False,145.0,85.0,55.0,box,677.88,Folding Box Board:18.5g,1,18.5,0.0455,9.26
+9,MAC Cosmetics,demo-reccommandation/9.webp,https://www.mecca.com/en-au/mac-cosmetics/macximal-silky-matte-lipstick-V-065358/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The product is presented in a cylindrical, black container with a screw-cap closure. It’s approximately 3.8 inches tall and contains a lipstick stick with a muted, reddish-brown hue.",SP,Tissue Paper Insert,Soft,False,,,,unknown,,Paper - Tissue:1.2g,1,1.2,0.0042,1.55
+9,MAC Cosmetics,demo-reccommandation/9.webp,https://www.mecca.com/en-au/mac-cosmetics/macximal-silky-matte-lipstick-V-065358/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The product is presented in a cylindrical, black container with a screw-cap closure. It’s approximately 3.8 inches tall and contains a lipstick stick with a muted, reddish-brown hue.",SP,Product Information Leaflet,Soft,False,,,,unknown,,Paper - Bleached Kraft:2.1g,1,2.1,0.0036,1.93
+9,MAC Cosmetics,demo-reccommandation/9.webp,https://www.mecca.com/en-au/mac-cosmetics/macximal-silky-matte-lipstick-V-065358/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The product is presented in a cylindrical, black container with a screw-cap closure. It’s approximately 3.8 inches tall and contains a lipstick stick with a muted, reddish-brown hue.",TP,Master Carton (36 units),Rigid,False,420.0,280.0,180.0,box,21168.0,Corrugated:485.0g,1,485.0,0.8099,129.91
+9,MAC Cosmetics,demo-reccommandation/9.webp,https://www.mecca.com/en-au/mac-cosmetics/macximal-silky-matte-lipstick-V-065358/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The product is presented in a cylindrical, black container with a screw-cap closure. It’s approximately 3.8 inches tall and contains a lipstick stick with a muted, reddish-brown hue.",TP,Corrugated Divider Insert (36-cell),Rigid,False,380.0,250.0,150.0,box,14250.0,Corrugated:210.0g,1,210.0,0.3507,56.25
+9,MAC Cosmetics,demo-reccommandation/9.webp,https://www.mecca.com/en-au/mac-cosmetics/macximal-silky-matte-lipstick-V-065358/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The product is presented in a cylindrical, black container with a screw-cap closure. It’s approximately 3.8 inches tall and contains a lipstick stick with a muted, reddish-brown hue.",TP,Stretch Wrap (Pallet),Soft,False,,,,unknown,,Low-Density Polyethylene:185.0g,1,185.0,0.4199,113.74
+9,MAC Cosmetics,demo-reccommandation/9.webp,https://www.mecca.com/en-au/mac-cosmetics/macximal-silky-matte-lipstick-V-065358/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The product is presented in a cylindrical, black container with a screw-cap closure. It’s approximately 3.8 inches tall and contains a lipstick stick with a muted, reddish-brown hue.",TP,Wooden Pallet (Softwood),Rigid,True,1200.0,800.0,150.0,flat,144000.0,Softwood:22000.0g,1,22000.0,9503.34,913.0
+10,MECCA MAX,demo-reccommandation/10.webp,https://www.mecca.com/en-au/mecca-max/pout-pop-sheer-lipstick-V-047808/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the image:
+
+The product is housed in a cylindrical container with a bright red exterior and a gold-colored rotating base. A solid, reddish-brown stick is visible extending from the base, indicating the product’s core component.",PP,Lipstick Tube Body,Rigid,False,125,18,110,flat,247.5,Polypropylene:8.2g,1,8.2,0.0188,3.27
+10,MECCA MAX,demo-reccommandation/10.webp,https://www.mecca.com/en-au/mecca-max/pout-pop-sheer-lipstick-V-047808/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the image:
+
+The product is housed in a cylindrical container with a bright red exterior and a gold-colored rotating base. A solid, reddish-brown stick is visible extending from the base, indicating the product’s core component.",PP,Lipstick Stick (Core),Soft,False,65,8,8,cylindrical,4.16,Paraffin Wax:2.1g; Talc:0.8g,2,2.9,0.267,0.31
+10,MECCA MAX,demo-reccommandation/10.webp,https://www.mecca.com/en-au/mecca-max/pout-pop-sheer-lipstick-V-047808/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the image:
+
+The product is housed in a cylindrical container with a bright red exterior and a gold-colored rotating base. A solid, reddish-brown stick is visible extending from the base, indicating the product’s core component.",PP,Rotating Base,Rigid,False,45,45,15,box,30.38,Acrylonitrile Butadiene Styrene:6.3g,1,6.3,0.0328,15.38
+10,MECCA MAX,demo-reccommandation/10.webp,https://www.mecca.com/en-au/mecca-max/pout-pop-sheer-lipstick-V-047808/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the image:
+
+The product is housed in a cylindrical container with a bright red exterior and a gold-colored rotating base. A solid, reddish-brown stick is visible extending from the base, indicating the product’s core component.",PP,Cap,Rigid,False,32,32,8,flat,8.19,Polypropylene:3.1g,1,3.1,0.0071,1.24
+10,MECCA MAX,demo-reccommandation/10.webp,https://www.mecca.com/en-au/mecca-max/pout-pop-sheer-lipstick-V-047808/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the image:
+
+The product is housed in a cylindrical container with a bright red exterior and a gold-colored rotating base. A solid, reddish-brown stick is visible extending from the base, indicating the product’s core component.",PP,Inner Seal/Liner,Soft,False,12,12,2,flat,0.29,Low-Density Polyethylene:0.4g,1,0.4,0.0009,0.25
+10,MECCA MAX,demo-reccommandation/10.webp,https://www.mecca.com/en-au/mecca-max/pout-pop-sheer-lipstick-V-047808/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the image:
+
+The product is housed in a cylindrical container with a bright red exterior and a gold-colored rotating base. A solid, reddish-brown stick is visible extending from the base, indicating the product’s core component.",SP,Retail Carton Box,Rigid,False,145,85,55,box,677.88,Folding Box Board:18.5g,1,18.5,0.0455,9.26
+10,MECCA MAX,demo-reccommandation/10.webp,https://www.mecca.com/en-au/mecca-max/pout-pop-sheer-lipstick-V-047808/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the image:
+
+The product is housed in a cylindrical container with a bright red exterior and a gold-colored rotating base. A solid, reddish-brown stick is visible extending from the base, indicating the product’s core component.",SP,Product Information Leaflet,Soft,False,90,60,1.2,flat,6.48,Paper - Bleached Kraft:1.2g,1,1.2,0.0021,1.1
+10,MECCA MAX,demo-reccommandation/10.webp,https://www.mecca.com/en-au/mecca-max/pout-pop-sheer-lipstick-V-047808/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the image:
+
+The product is housed in a cylindrical container with a bright red exterior and a gold-colored rotating base. A solid, reddish-brown stick is visible extending from the base, indicating the product’s core component.",TP,Master Shipping Carton (24 units),Rigid,False,385,265,145,box,14793.62,Corrugated:420.0g,1,420.0,0.7014,112.5
+10,MECCA MAX,demo-reccommandation/10.webp,https://www.mecca.com/en-au/mecca-max/pout-pop-sheer-lipstick-V-047808/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the image:
+
+The product is housed in a cylindrical container with a bright red exterior and a gold-colored rotating base. A solid, reddish-brown stick is visible extending from the base, indicating the product’s core component.",TP,Stretch Wrap (Pallet),Soft,False,1800,850,,unknown,,Low-Density Polyethylene:125.0g,1,125.0,0.2838,76.85
+10,MECCA MAX,demo-reccommandation/10.webp,https://www.mecca.com/en-au/mecca-max/pout-pop-sheer-lipstick-V-047808/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the image:
+
+The product is housed in a cylindrical container with a bright red exterior and a gold-colored rotating base. A solid, reddish-brown stick is visible extending from the base, indicating the product’s core component.",TP,Wooden Pallet,Rigid,True,1200,800,150,flat,144000.0,Hardwood:1850.0g,1,1850.0,734.5795,75.35
+11,MECCA MAX,demo-reccommandation/11.webp,https://www.mecca.com/en-au/mecca-max/lip-lock-balmy-stain-V-067452/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption based solely on the visible elements in the image:
+
+The product is housed in a cylindrical bottle with a deep burgundy hue and a threaded screw-cap closure. A clear, slender wand applicator extends from the bottle’s top.",PP,Lipstick Tube (Plastic Barrel),Rigid,,92.0,18.0,120.0,flat,198.72,Polypropylene:8.2g,1,8.2,0.0188,3.27
+11,MECCA MAX,demo-reccommandation/11.webp,https://www.mecca.com/en-au/mecca-max/lip-lock-balmy-stain-V-067452/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption based solely on the visible elements in the image:
+
+The product is housed in a cylindrical bottle with a deep burgundy hue and a threaded screw-cap closure. A clear, slender wand applicator extends from the bottle’s top.",PP,Lipstick Stick (Formulation & Colour),Soft,,65.0,8.0,12.0,box,6.24,Paraffin Wax:32.0g; Talc:2.0g,2,34.0,0.7018,3.87
+11,MECCA MAX,demo-reccommandation/11.webp,https://www.mecca.com/en-au/mecca-max/lip-lock-balmy-stain-V-067452/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption based solely on the visible elements in the image:
+
+The product is housed in a cylindrical bottle with a deep burgundy hue and a threaded screw-cap closure. A clear, slender wand applicator extends from the bottle’s top.",PP,Cap (Plastic Closure),Rigid,,22.0,22.0,8.0,box,3.87,Acrylonitrile Butadiene Styrene:4.1g,1,4.1,0.0214,10.01
+11,MECCA MAX,demo-reccommandation/11.webp,https://www.mecca.com/en-au/mecca-max/lip-lock-balmy-stain-V-067452/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption based solely on the visible elements in the image:
+
+The product is housed in a cylindrical bottle with a deep burgundy hue and a threaded screw-cap closure. A clear, slender wand applicator extends from the bottle’s top.",PP,Wand Applicator (Twist-Up Tool),Rigid,True,68.0,4.0,2.8,cylindrical,0.76,Polypropylene:2.1g; Stainless Steel:0.8g,2,2.9,0.0072,1.61
+11,MECCA MAX,demo-reccommandation/11.webp,https://www.mecca.com/en-au/mecca-max/lip-lock-balmy-stain-V-067452/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption based solely on the visible elements in the image:
+
+The product is housed in a cylindrical bottle with a deep burgundy hue and a threaded screw-cap closure. A clear, slender wand applicator extends from the bottle’s top.",PP,Label (Sleeve Wrap),Soft,,98.0,32.0,1.2,flat,3.76,Paper - Label:1.1g; Ink - Water Based:0.2g,2,1.3,0.0026,1.98
+11,MECCA MAX,demo-reccommandation/11.webp,https://www.mecca.com/en-au/mecca-max/lip-lock-balmy-stain-V-067452/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption based solely on the visible elements in the image:
+
+The product is housed in a cylindrical bottle with a deep burgundy hue and a threaded screw-cap closure. A clear, slender wand applicator extends from the bottle’s top.",SP,Carton Box (Folding Cartonboard),Rigid,,148.0,85.0,28.0,box,352.24,Folding Box Board:18.5g; Ink - Water Based:0.8g,2,19.3,0.0475,9.49
+11,MECCA MAX,demo-reccommandation/11.webp,https://www.mecca.com/en-au/mecca-max/lip-lock-balmy-stain-V-067452/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption based solely on the visible elements in the image:
+
+The product is housed in a cylindrical bottle with a deep burgundy hue and a threaded screw-cap closure. A clear, slender wand applicator extends from the bottle’s top.",SP,Leaflet Insert (Product Information),Soft,,105.0,70.0,2.0,flat,14.7,Paper - Bleached Kraft:2.1g; Ink - Water Based:0.3g,2,2.4,0.0044,2.01
+11,MECCA MAX,demo-reccommandation/11.webp,https://www.mecca.com/en-au/mecca-max/lip-lock-balmy-stain-V-067452/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption based solely on the visible elements in the image:
+
+The product is housed in a cylindrical bottle with a deep burgundy hue and a threaded screw-cap closure. A clear, slender wand applicator extends from the bottle’s top.",TP,"Master Carton (Shipping Carton, 24 units)",Rigid,,385.0,272.0,125.0,box,13090.0,Corrugated:520.0g,1,520.0,0.8684,139.29
+11,MECCA MAX,demo-reccommandation/11.webp,https://www.mecca.com/en-au/mecca-max/lip-lock-balmy-stain-V-067452/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption based solely on the visible elements in the image:
+
+The product is housed in a cylindrical bottle with a deep burgundy hue and a threaded screw-cap closure. A clear, slender wand applicator extends from the bottle’s top.",TP,Stretch Wrap (Pallet Wrap),Soft,,180.0,95.0,,unknown,,Low-Density Polyethylene:125.0g,1,125.0,0.2838,76.85
+11,MECCA MAX,demo-reccommandation/11.webp,https://www.mecca.com/en-au/mecca-max/lip-lock-balmy-stain-V-067452/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption based solely on the visible elements in the image:
+
+The product is housed in a cylindrical bottle with a deep burgundy hue and a threaded screw-cap closure. A clear, slender wand applicator extends from the bottle’s top.",TP,Wooden Pallet (Softwood Pallet),Soft,True,1200.0,800.0,150.0,flat,144000.0,Softwood:1850.0g,1,1850.0,799.1445,76.78
+12,Morphe,demo-reccommandation/12.webp,https://www.mecca.com/en-au/morphe/lip-filter-hydroplump-soft-matte-lipstick-V-079254/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the product photo:
+
+The product is presented in a cylindrical tube with a matte brown exterior. It features a silver-colored mechanism at the base and a twist-up closure at the top, with a visible core of a similar shade.",PP,Lipstick Tube (Aluminium),Rigid,,125,18,110,flat,247.5,Aluminium:185g,1,185.0,3.9331,439.7
+12,Morphe,demo-reccommandation/12.webp,https://www.mecca.com/en-au/morphe/lip-filter-hydroplump-soft-matte-lipstick-V-079254/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the product photo:
+
+The product is presented in a cylindrical tube with a matte brown exterior. It features a silver-colored mechanism at the base and a twist-up closure at the top, with a visible core of a similar shade.",PP,Lipstick Stick (Wax/Oil Base),Soft,,85,12,6,box,6.12,Paraffin Wax:3.2g; Talc:0.4g,2,3.6,0.1363,0.4
+12,Morphe,demo-reccommandation/12.webp,https://www.mecca.com/en-au/morphe/lip-filter-hydroplump-soft-matte-lipstick-V-079254/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the product photo:
+
+The product is presented in a cylindrical tube with a matte brown exterior. It features a silver-colored mechanism at the base and a twist-up closure at the top, with a visible core of a similar shade.",PP,Aluminium Cap (Twist-Up),Rigid,True,22,22,32,box,15.49,Aluminium:120g,1,120.0,2.5512,285.21
+12,Morphe,demo-reccommandation/12.webp,https://www.mecca.com/en-au/morphe/lip-filter-hydroplump-soft-matte-lipstick-V-079254/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the product photo:
+
+The product is presented in a cylindrical tube with a matte brown exterior. It features a silver-colored mechanism at the base and a twist-up closure at the top, with a visible core of a similar shade.",PP,Inner Seal Liner (Paper),Soft,,15,15,1,flat,0.23,Paper - Tissue:0.3g,1,0.3,0.001,0.39
+12,Morphe,demo-reccommandation/12.webp,https://www.mecca.com/en-au/morphe/lip-filter-hydroplump-soft-matte-lipstick-V-079254/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the product photo:
+
+The product is presented in a cylindrical tube with a matte brown exterior. It features a silver-colored mechanism at the base and a twist-up closure at the top, with a visible core of a similar shade.",SP,Folding Carton Box,Rigid,,135,65,220,box,1930.5,Folding Box Board:285g; Ink - Water Based:2.5g,2,287.5,0.7075,143.31
+12,Morphe,demo-reccommandation/12.webp,https://www.mecca.com/en-au/morphe/lip-filter-hydroplump-soft-matte-lipstick-V-079254/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the product photo:
+
+The product is presented in a cylindrical tube with a matte brown exterior. It features a silver-colored mechanism at the base and a twist-up closure at the top, with a visible core of a similar shade.",SP,Product Information Leaflet,Soft,,85,55,20,box,93.5,Paper - Bleached Kraft:1.8g; Ink - Water Based:0.4g,2,2.2,0.0041,1.76
+12,Morphe,demo-reccommandation/12.webp,https://www.mecca.com/en-au/morphe/lip-filter-hydroplump-soft-matte-lipstick-V-079254/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the product photo:
+
+The product is presented in a cylindrical tube with a matte brown exterior. It features a silver-colored mechanism at the base and a twist-up closure at the top, with a visible core of a similar shade.",TP,"Shipping Carton (Master Case, 48 units)",Rigid,,360,275,65,flat,6435.0,Corrugated:420g,1,420.0,0.7014,112.5
+12,Morphe,demo-reccommandation/12.webp,https://www.mecca.com/en-au/morphe/lip-filter-hydroplump-soft-matte-lipstick-V-079254/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the product photo:
+
+The product is presented in a cylindrical tube with a matte brown exterior. It features a silver-colored mechanism at the base and a twist-up closure at the top, with a visible core of a similar shade.",TP,Corrugated Divider Insert (48-cell),Rigid,,355,270,5,flat,479.25,Corrugated:85g,1,85.0,0.1419,22.77
+12,Morphe,demo-reccommandation/12.webp,https://www.mecca.com/en-au/morphe/lip-filter-hydroplump-soft-matte-lipstick-V-079254/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the product photo:
+
+The product is presented in a cylindrical tube with a matte brown exterior. It features a silver-colored mechanism at the base and a twist-up closure at the top, with a visible core of a similar shade.",TP,Stretch Wrap (Pallet Wrap),Soft,,180,900,20,flat,3240.0,Low-Density Polyethylene:120g,1,120.0,0.2724,73.78
+12,Morphe,demo-reccommandation/12.webp,https://www.mecca.com/en-au/morphe/lip-filter-hydroplump-soft-matte-lipstick-V-079254/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the product photo:
+
+The product is presented in a cylindrical tube with a matte brown exterior. It features a silver-colored mechanism at the base and a twist-up closure at the top, with a visible core of a similar shade.",TP,Wooden Pallet (Softwood),Soft,True,1200,800,150,flat,144000.0,Softwood:2200g,1,2200.0,950.334,91.3
+13,VIOLETTE_FR,demo-reccommandation/13.webp,https://www.mecca.com/en-au/violette-fr/bisou-balm-V-061326/?cgpath=makeup-lips-lipstick,True,"The product is presented in a slender, cylindrical container with a gold-toned base and barrel. It features a rotating, circular closure and a matte-finish stick extending upwards, displaying a reddish-brown hue.",PP,Lipstick Tube Body,Rigid,,85,12,100,flat,102.0,Polypropylene:8.2g,1,8.2,0.0188,3.27
+13,VIOLETTE_FR,demo-reccommandation/13.webp,https://www.mecca.com/en-au/violette-fr/bisou-balm-V-061326/?cgpath=makeup-lips-lipstick,True,"The product is presented in a slender, cylindrical container with a gold-toned base and barrel. It features a rotating, circular closure and a matte-finish stick extending upwards, displaying a reddish-brown hue.",PP,Lipstick Stick (Core),Soft,,32,4,45,flat,5.76,Paraffin Wax:2.1g; Talc:0.8g,2,2.9,0.267,0.31
+13,VIOLETTE_FR,demo-reccommandation/13.webp,https://www.mecca.com/en-au/violette-fr/bisou-balm-V-061326/?cgpath=makeup-lips-lipstick,True,"The product is presented in a slender, cylindrical container with a gold-toned base and barrel. It features a rotating, circular closure and a matte-finish stick extending upwards, displaying a reddish-brown hue.",PP,Lipstick Barrel (Outer Sleeve),Soft,,68,8,85,flat,46.24,Paper - Label:1.2g,1,1.2,0.0023,2.09
+13,VIOLETTE_FR,demo-reccommandation/13.webp,https://www.mecca.com/en-au/violette-fr/bisou-balm-V-061326/?cgpath=makeup-lips-lipstick,True,"The product is presented in a slender, cylindrical container with a gold-toned base and barrel. It features a rotating, circular closure and a matte-finish stick extending upwards, displaying a reddish-brown hue.",PP,Closure (Circular Cap),Rigid,True,18,18,8,box,2.59,Acrylonitrile Butadiene Styrene:3.1g,1,3.1,0.0162,7.57
+13,VIOLETTE_FR,demo-reccommandation/13.webp,https://www.mecca.com/en-au/violette-fr/bisou-balm-V-061326/?cgpath=makeup-lips-lipstick,True,"The product is presented in a slender, cylindrical container with a gold-toned base and barrel. It features a rotating, circular closure and a matte-finish stick extending upwards, displaying a reddish-brown hue.",PP,Base (Gold-Toned Metal Insert),Rigid,True,12,12,6,box,0.86,Aluminium:2.4g,1,2.4,0.051,5.7
+13,VIOLETTE_FR,demo-reccommandation/13.webp,https://www.mecca.com/en-au/violette-fr/bisou-balm-V-061326/?cgpath=makeup-lips-lipstick,True,"The product is presented in a slender, cylindrical container with a gold-toned base and barrel. It features a rotating, circular closure and a matte-finish stick extending upwards, displaying a reddish-brown hue.",SP,Retail Carton Box,Rigid,,145,85,35,box,431.38,Folding Box Board:18.5g,1,18.5,0.0455,9.26
+13,VIOLETTE_FR,demo-reccommandation/13.webp,https://www.mecca.com/en-au/violette-fr/bisou-balm-V-061326/?cgpath=makeup-lips-lipstick,True,"The product is presented in a slender, cylindrical container with a gold-toned base and barrel. It features a rotating, circular closure and a matte-finish stick extending upwards, displaying a reddish-brown hue.",SP,Tissue Paper Insert,Soft,,120,60,15,flat,108.0,Paper - Tissue:2.1g,1,2.1,0.0073,2.7
+13,VIOLETTE_FR,demo-reccommandation/13.webp,https://www.mecca.com/en-au/violette-fr/bisou-balm-V-061326/?cgpath=makeup-lips-lipstick,True,"The product is presented in a slender, cylindrical container with a gold-toned base and barrel. It features a rotating, circular closure and a matte-finish stick extending upwards, displaying a reddish-brown hue.",TP,Master Carton (48 units),Rigid,,430,315,145,box,19640.25,Corrugated:425.0g,1,425.0,0.7097,113.84
+13,VIOLETTE_FR,demo-reccommandation/13.webp,https://www.mecca.com/en-au/violette-fr/bisou-balm-V-061326/?cgpath=makeup-lips-lipstick,True,"The product is presented in a slender, cylindrical container with a gold-toned base and barrel. It features a rotating, circular closure and a matte-finish stick extending upwards, displaying a reddish-brown hue.",TP,Corrugated Divider Insert,Rigid,,280,180,60,box,3024.0,Corrugated:85.0g,1,85.0,0.1419,22.77
+13,VIOLETTE_FR,demo-reccommandation/13.webp,https://www.mecca.com/en-au/violette-fr/bisou-balm-V-061326/?cgpath=makeup-lips-lipstick,True,"The product is presented in a slender, cylindrical container with a gold-toned base and barrel. It features a rotating, circular closure and a matte-finish stick extending upwards, displaying a reddish-brown hue.",TP,Stretch Wrap,Soft,,520,380,120,box,23712.0,Low-Density Polyethylene:45.0g,1,45.0,0.1021,27.67
+13,VIOLETTE_FR,demo-reccommandation/13.webp,https://www.mecca.com/en-au/violette-fr/bisou-balm-V-061326/?cgpath=makeup-lips-lipstick,True,"The product is presented in a slender, cylindrical container with a gold-toned base and barrel. It features a rotating, circular closure and a matte-finish stick extending upwards, displaying a reddish-brown hue.",TP,Wooden Pallet,Rigid,True,1200,800,150,flat,144000.0,Hardwood:22000.0g,1,22000.0,8735.54,896.06
+14,MAC Cosmetics,demo-reccommandation/14.webp,https://www.mecca.com/en-au/mac-cosmetics/macximal-sleek-satin-lipstick-V-070687/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is a cylindrical lipstick tube with a matte black barrel and a silver screw-cap closure. It features a pointed lipstick tip and is approximately 12 centimeters in length.",PP,Lipstick Tube (Barrel),Rigid,False,120.0,12.0,12.0,cylindrical,17.28,Polypropylene:8.2g,1,8.2,0.0188,3.27
+14,MAC Cosmetics,demo-reccommandation/14.webp,https://www.mecca.com/en-au/mac-cosmetics/macximal-sleek-satin-lipstick-V-070687/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is a cylindrical lipstick tube with a matte black barrel and a silver screw-cap closure. It features a pointed lipstick tip and is approximately 12 centimeters in length.",PP,Lipstick Stick (Formulation),Soft,False,65.0,4.0,4.0,cylindrical,1.04,Paraffin Wax:2.8g; Talc:0.4g,2,3.2,0.1358,0.36
+14,MAC Cosmetics,demo-reccommandation/14.webp,https://www.mecca.com/en-au/mac-cosmetics/macximal-sleek-satin-lipstick-V-070687/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is a cylindrical lipstick tube with a matte black barrel and a silver screw-cap closure. It features a pointed lipstick tip and is approximately 12 centimeters in length.",PP,Lipstick Tip (Applicator Mould),Rigid,False,12.0,2.5,1.8,cylindrical,0.05,Polypropylene:1.2g,1,1.2,0.0027,0.48
+14,MAC Cosmetics,demo-reccommandation/14.webp,https://www.mecca.com/en-au/mac-cosmetics/macximal-sleek-satin-lipstick-V-070687/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is a cylindrical lipstick tube with a matte black barrel and a silver screw-cap closure. It features a pointed lipstick tip and is approximately 12 centimeters in length.",PP,Base Plug (Tube Core),Rigid,False,120.0,8.0,8.0,cylindrical,7.68,Polypropylene:3.5g,1,3.5,0.008,1.4
+14,MAC Cosmetics,demo-reccommandation/14.webp,https://www.mecca.com/en-au/mac-cosmetics/macximal-sleek-satin-lipstick-V-070687/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is a cylindrical lipstick tube with a matte black barrel and a silver screw-cap closure. It features a pointed lipstick tip and is approximately 12 centimeters in length.",PP,Label (Barrel Wrap),Rigid,False,125.0,12.0,1.5,flat,2.25,Paper - Label:0.8g; Ink - Water Based:0.1g,2,0.9,0.0018,1.43
+14,MAC Cosmetics,demo-reccommandation/14.webp,https://www.mecca.com/en-au/mac-cosmetics/macximal-sleek-satin-lipstick-V-070687/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is a cylindrical lipstick tube with a matte black barrel and a silver screw-cap closure. It features a pointed lipstick tip and is approximately 12 centimeters in length.",SP,Carton Box (Unit Retail),Rigid,False,245.0,185.0,55.0,box,2492.88,Folding Box Board:32.0g; Ink - Water Based:0.5g,2,32.5,0.08,16.15
+14,MAC Cosmetics,demo-reccommandation/14.webp,https://www.mecca.com/en-au/mac-cosmetics/macximal-sleek-satin-lipstick-V-070687/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is a cylindrical lipstick tube with a matte black barrel and a silver screw-cap closure. It features a pointed lipstick tip and is approximately 12 centimeters in length.",SP,Lipstick Stick Insert (Product Info Leaflet),Rigid,False,140.0,95.0,5.0,flat,66.5,Paper - Bleached Kraft:2.1g; Ink - Water Based:0.2g,2,2.3,0.0041,1.99
+14,MAC Cosmetics,demo-reccommandation/14.webp,https://www.mecca.com/en-au/mac-cosmetics/macximal-sleek-satin-lipstick-V-070687/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is a cylindrical lipstick tube with a matte black barrel and a silver screw-cap closure. It features a pointed lipstick tip and is approximately 12 centimeters in length.",TP,"Retail Carton (Master Case, 24 units)",Rigid,False,520.0,380.0,120.0,box,23712.0,Corrugated:480.0g,1,480.0,0.8016,128.57
+14,MAC Cosmetics,demo-reccommandation/14.webp,https://www.mecca.com/en-au/mac-cosmetics/macximal-sleek-satin-lipstick-V-070687/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is a cylindrical lipstick tube with a matte black barrel and a silver screw-cap closure. It features a pointed lipstick tip and is approximately 12 centimeters in length.",TP,Corrugated Divider Insert (Case Pack),Rigid,False,380.0,280.0,40.0,flat,4256.0,Corrugated:120.0g,1,120.0,0.2004,32.14
+14,MAC Cosmetics,demo-reccommandation/14.webp,https://www.mecca.com/en-au/mac-cosmetics/macximal-sleek-satin-lipstick-V-070687/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is a cylindrical lipstick tube with a matte black barrel and a silver screw-cap closure. It features a pointed lipstick tip and is approximately 12 centimeters in length.",TP,Stretch Wrap (Pallet Load),Soft,False,180.0,900.0,200.0,cylindrical,32400.0,Low-Density Polyethylene:180.0g,1,180.0,0.4086,110.66
+15,Stila,demo-reccommandation/15.webp,https://www.mecca.com/en-au/stila/calligraphy-lip-stain-V-060687/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is a slender, cylindrical tube with a white barrel and a red tip. It features a twist-based closure at the base and is approximately 12 centimeters in length.",PP,Lipstick Tube (Barrel),Rigid,,120.0,8.0,8.0,cylindrical,7.68,Polypropylene:4.2g,1,4.2,0.0096,1.68
+15,Stila,demo-reccommandation/15.webp,https://www.mecca.com/en-au/stila/calligraphy-lip-stain-V-060687/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is a slender, cylindrical tube with a white barrel and a red tip. It features a twist-based closure at the base and is approximately 12 centimeters in length.",PP,Lipstick Tip (Blade),Rigid,,12.0,2.5,1.2,box,0.04,Polypropylene:1.8g,1,1.8,0.0041,0.72
+15,Stila,demo-reccommandation/15.webp,https://www.mecca.com/en-au/stila/calligraphy-lip-stain-V-060687/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is a slender, cylindrical tube with a white barrel and a red tip. It features a twist-based closure at the base and is approximately 12 centimeters in length.",PP,Cap (Twist-Off),Rigid,True,140.0,12.0,10.0,cylindrical,16.8,Polypropylene:5.6g,1,5.6,0.0128,2.23
+15,Stila,demo-reccommandation/15.webp,https://www.mecca.com/en-au/stila/calligraphy-lip-stain-V-060687/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is a slender, cylindrical tube with a white barrel and a red tip. It features a twist-based closure at the base and is approximately 12 centimeters in length.",PP,Inner Seal (Wax Disc),Soft,,12.0,12.0,0.8,flat,0.12,Paraffin Wax:1.2g,1,1.2,0.0015,0.14
+15,Stila,demo-reccommandation/15.webp,https://www.mecca.com/en-au/stila/calligraphy-lip-stain-V-060687/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is a slender, cylindrical tube with a white barrel and a red tip. It features a twist-based closure at the base and is approximately 12 centimeters in length.",PP,Product Label (Wrap),Soft,,50.0,35.0,2.0,flat,3.5,Paper - Label:0.8g,1,0.8,0.0015,1.4
+15,Stila,demo-reccommandation/15.webp,https://www.mecca.com/en-au/stila/calligraphy-lip-stain-V-060687/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is a slender, cylindrical tube with a white barrel and a red tip. It features a twist-based closure at the base and is approximately 12 centimeters in length.",SP,Retail Carton Box (Folding),Soft,,185.0,125.0,40.0,box,925.0,Folding Box Board:12.5g,1,12.5,0.0307,6.25
+15,Stila,demo-reccommandation/15.webp,https://www.mecca.com/en-au/stila/calligraphy-lip-stain-V-060687/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is a slender, cylindrical tube with a white barrel and a red tip. It features a twist-based closure at the base and is approximately 12 centimeters in length.",SP,Tissue Paper Insert,Soft,,85.0,55.0,15.0,box,70.12,Paper - Tissue:1.8g,1,1.8,0.0062,2.32
+15,Stila,demo-reccommandation/15.webp,https://www.mecca.com/en-au/stila/calligraphy-lip-stain-V-060687/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is a slender, cylindrical tube with a white barrel and a red tip. It features a twist-based closure at the base and is approximately 12 centimeters in length.",TP,"Master Carton (Shipping Case, 24 units)",Soft,,520.0,350.0,180.0,box,32760.0,Corrugated:385.0g,1,385.0,0.643,103.13
+15,Stila,demo-reccommandation/15.webp,https://www.mecca.com/en-au/stila/calligraphy-lip-stain-V-060687/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is a slender, cylindrical tube with a white barrel and a red tip. It features a twist-based closure at the base and is approximately 12 centimeters in length.",TP,Stretch Wrap (Pallet Wrap),Soft,,180.0,95.0,40.0,box,684.0,Low-Density Polyethylene:125.0g,1,125.0,0.2838,76.85
+15,Stila,demo-reccommandation/15.webp,https://www.mecca.com/en-au/stila/calligraphy-lip-stain-V-060687/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is a slender, cylindrical tube with a white barrel and a red tip. It features a twist-based closure at the base and is approximately 12 centimeters in length.",TP,Wooden Pallet (Softwood),Soft,True,1200.0,800.0,150.0,flat,144000.0,Softwood:22000.0g,1,22000.0,9503.34,913.0
+16,Yves Saint Laurent,demo-reccommandation/16.webp,https://www.mecca.com/en-au/yves-saint-laurent/ysl-loveshine-lipstick-V-068466/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The image shows two cylindrical containers, each approximately 10 centimeters tall, with a silver exterior and a burgundy-colored base.  Each container features a twist-up closure and a lipstick stick extending from the top.",PP,Lipstick Tube Body,Rigid,False,92.0,12.0,12.0,cylindrical,13.25,Polypropylene:8.2g,1,8.2,0.0188,3.27
+16,Yves Saint Laurent,demo-reccommandation/16.webp,https://www.mecca.com/en-au/yves-saint-laurent/ysl-loveshine-lipstick-V-068466/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The image shows two cylindrical containers, each approximately 10 centimeters tall, with a silver exterior and a burgundy-colored base.  Each container features a twist-up closure and a lipstick stick extending from the top.",PP,Lipstick Twist Base,Rigid,False,28.0,18.0,18.0,cylindrical,9.07,Acrylonitrile Butadiene Styrene:6.1g,1,6.1,0.0318,14.89
+16,Yves Saint Laurent,demo-reccommandation/16.webp,https://www.mecca.com/en-au/yves-saint-laurent/ysl-loveshine-lipstick-V-068466/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The image shows two cylindrical containers, each approximately 10 centimeters tall, with a silver exterior and a burgundy-colored base.  Each container features a twist-up closure and a lipstick stick extending from the top.",PP,Lipstick Cap,Rigid,False,14.0,14.0,8.0,box,1.57,Polypropylene:3.2g,1,3.2,0.0073,1.28
+16,Yves Saint Laurent,demo-reccommandation/16.webp,https://www.mecca.com/en-au/yves-saint-laurent/ysl-loveshine-lipstick-V-068466/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The image shows two cylindrical containers, each approximately 10 centimeters tall, with a silver exterior and a burgundy-colored base.  Each container features a twist-up closure and a lipstick stick extending from the top.",PP,Lipstick Stick (Wax Core),Soft,False,12.0,3.0,3.0,cylindrical,0.11,Paraffin Wax:2.1g; Talc:0.8g,2,2.9,0.267,0.31
+16,Yves Saint Laurent,demo-reccommandation/16.webp,https://www.mecca.com/en-au/yves-saint-laurent/ysl-loveshine-lipstick-V-068466/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The image shows two cylindrical containers, each approximately 10 centimeters tall, with a silver exterior and a burgundy-colored base.  Each container features a twist-up closure and a lipstick stick extending from the top.",PP,Paper Label (Tube Wrap),Soft,False,95.0,4.0,4.0,cylindrical,1.52,Paper - Label:0.9g; Ink - Water Based:0.3g,2,1.2,0.0025,1.65
+16,Yves Saint Laurent,demo-reccommandation/16.webp,https://www.mecca.com/en-au/yves-saint-laurent/ysl-loveshine-lipstick-V-068466/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The image shows two cylindrical containers, each approximately 10 centimeters tall, with a silver exterior and a burgundy-colored base.  Each container features a twist-up closure and a lipstick stick extending from the top.",SP,Folding Box (Unit Retail Box),Rigid,False,125.0,85.0,55.0,box,584.38,Folding Box Board:18.5g; Ink - Water Based:1.2g,2,19.7,0.0485,9.6
+16,Yves Saint Laurent,demo-reccommandation/16.webp,https://www.mecca.com/en-au/yves-saint-laurent/ysl-loveshine-lipstick-V-068466/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The image shows two cylindrical containers, each approximately 10 centimeters tall, with a silver exterior and a burgundy-colored base.  Each container features a twist-up closure and a lipstick stick extending from the top.",SP,Tissue Paper Insert,Soft,False,130.0,90.0,20.0,flat,234.0,Paper - Tissue:3.1g,1,3.1,0.0107,3.99
+16,Yves Saint Laurent,demo-reccommandation/16.webp,https://www.mecca.com/en-au/yves-saint-laurent/ysl-loveshine-lipstick-V-068466/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The image shows two cylindrical containers, each approximately 10 centimeters tall, with a silver exterior and a burgundy-colored base.  Each container features a twist-up closure and a lipstick stick extending from the top.",TP,Shipping Carton (Master Carton – 24 units),Rigid,False,355.0,245.0,145.0,box,12611.38,Corrugated:425.0g; Ink - Water Based:8.5g,2,433.5,0.7313,116.23
+16,Yves Saint Laurent,demo-reccommandation/16.webp,https://www.mecca.com/en-au/yves-saint-laurent/ysl-loveshine-lipstick-V-068466/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The image shows two cylindrical containers, each approximately 10 centimeters tall, with a silver exterior and a burgundy-colored base.  Each container features a twist-up closure and a lipstick stick extending from the top.",TP,Corrugated Divider Insert (Carton),Rigid,False,350.0,240.0,80.0,box,6720.0,Corrugated:185.0g,1,185.0,0.309,49.55
+16,Yves Saint Laurent,demo-reccommandation/16.webp,https://www.mecca.com/en-au/yves-saint-laurent/ysl-loveshine-lipstick-V-068466/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The image shows two cylindrical containers, each approximately 10 centimeters tall, with a silver exterior and a burgundy-colored base.  Each container features a twist-up closure and a lipstick stick extending from the top.",TP,Stretch Wrap (Pallet Load),Soft,False,400.0,600.0,120.0,box,28800.0,Low-Density Polyethylene:145.0g,1,145.0,0.3291,89.15
+17,MECCA MAX,demo-reccommandation/17.webp,https://www.mecca.com/en-au/mecca-max/pout-paint-matte-liquid-lipstick-V-074875/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the product photo:
+
+The product is presented in a cylindrical glass container with a gold-colored screw cap. A slender, gold-colored applicator tube extends from the cap, designed for dispensing the product.",PP,Lipstick Tube (Applicator Barrel),Rigid,False,85,12,12,cylindrical,12.24,Polypropylene:4.2g,1,4.2,0.0096,1.68
+17,MECCA MAX,demo-reccommandation/17.webp,https://www.mecca.com/en-au/mecca-max/pout-paint-matte-liquid-lipstick-V-074875/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the product photo:
+
+The product is presented in a cylindrical glass container with a gold-colored screw cap. A slender, gold-colored applicator tube extends from the cap, designed for dispensing the product.",PP,Cap (Screw-On),Rigid,True,68,42,18,box,51.41,Acrylonitrile Butadiene Styrene:6.8g,1,6.8,0.0354,16.6
+17,MECCA MAX,demo-reccommandation/17.webp,https://www.mecca.com/en-au/mecca-max/pout-paint-matte-liquid-lipstick-V-074875/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the product photo:
+
+The product is presented in a cylindrical glass container with a gold-colored screw cap. A slender, gold-colored applicator tube extends from the cap, designed for dispensing the product.",PP,Lipstick Stick (Product Core),Soft,False,120,12,8,box,11.52,Paraffin Wax:3.2g,1,3.2,0.0041,0.37
+17,MECCA MAX,demo-reccommandation/17.webp,https://www.mecca.com/en-au/mecca-max/pout-paint-matte-liquid-lipstick-V-074875/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the product photo:
+
+The product is presented in a cylindrical glass container with a gold-colored screw cap. A slender, gold-colored applicator tube extends from the cap, designed for dispensing the product.",PP,Inner Seal Liner,Soft,False,25,15,2,flat,0.75,Paper - Tissue:0.8g,1,0.8,0.0028,1.03
+17,MECCA MAX,demo-reccommandation/17.webp,https://www.mecca.com/en-au/mecca-max/pout-paint-matte-liquid-lipstick-V-074875/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the product photo:
+
+The product is presented in a cylindrical glass container with a gold-colored screw cap. A slender, gold-colored applicator tube extends from the cap, designed for dispensing the product.",SP,Outer Carton Box,Rigid,False,145,95,35,box,482.12,Folding Box Board:18.5g,1,18.5,0.0455,9.26
+17,MECCA MAX,demo-reccommandation/17.webp,https://www.mecca.com/en-au/mecca-max/pout-paint-matte-liquid-lipstick-V-074875/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the product photo:
+
+The product is presented in a cylindrical glass container with a gold-colored screw cap. A slender, gold-colored applicator tube extends from the cap, designed for dispensing the product.",SP,Product Information Leaflet,Soft,False,85,55,20,box,93.5,Paper - Bleached Kraft:2.1g,1,2.1,0.0036,1.93
+17,MECCA MAX,demo-reccommandation/17.webp,https://www.mecca.com/en-au/mecca-max/pout-paint-matte-liquid-lipstick-V-074875/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the product photo:
+
+The product is presented in a cylindrical glass container with a gold-colored screw cap. A slender, gold-colored applicator tube extends from the cap, designed for dispensing the product.",TP,Master Shipping Carton (24 units),Rigid,False,385,275,125,box,13234.38,Corrugated:420.0g,1,420.0,0.7014,112.5
+17,MECCA MAX,demo-reccommandation/17.webp,https://www.mecca.com/en-au/mecca-max/pout-paint-matte-liquid-lipstick-V-074875/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the product photo:
+
+The product is presented in a cylindrical glass container with a gold-colored screw cap. A slender, gold-colored applicator tube extends from the cap, designed for dispensing the product.",TP,Stretch Wrap (Pallet Wrap),Soft,False,180,900,1.2,flat,194.4,Low-Density Polyethylene:85.0g,1,85.0,0.193,52.26
+17,MECCA MAX,demo-reccommandation/17.webp,https://www.mecca.com/en-au/mecca-max/pout-paint-matte-liquid-lipstick-V-074875/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements in the product photo:
+
+The product is presented in a cylindrical glass container with a gold-colored screw cap. A slender, gold-colored applicator tube extends from the cap, designed for dispensing the product.",TP,Wooden Pallet (Softwood),Soft,True,1200,800,150,flat,144000.0,Softwood:22000.0g,1,22000.0,9503.34,913.0
+18,Morphe,demo-reccommandation/18.webp,https://www.mecca.com/en-au/morphe/soulmatte-velvet-lip-mousse-V-058793/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is housed in a slender, cylindrical tube with a matte black finish. It features a screw-cap closure and a small, rounded applicator brush protruding from the top.",PP,Lipstick Tube,Rigid,,85,12,100,flat,102.0,Polypropylene:4.2g,1,4.2,0.0096,1.68
+18,Morphe,demo-reccommandation/18.webp,https://www.mecca.com/en-au/morphe/soulmatte-velvet-lip-mousse-V-058793/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is housed in a slender, cylindrical tube with a matte black finish. It features a screw-cap closure and a small, rounded applicator brush protruding from the top.",PP,Cap with Brush Applicator,Rigid,,12,12,28,cylindrical,4.03,Polypropylene:3.1g; Nylon:0.8g,2,3.9,0.015,3.63
+18,Morphe,demo-reccommandation/18.webp,https://www.mecca.com/en-au/morphe/soulmatte-velvet-lip-mousse-V-058793/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is housed in a slender, cylindrical tube with a matte black finish. It features a screw-cap closure and a small, rounded applicator brush protruding from the top.",PP,Inner Seal/Wax Liner,Soft,,4,4,2,box,0.03,Paraffin Wax:0.5g,1,0.5,0.0006,0.06
+18,Morphe,demo-reccommandation/18.webp,https://www.mecca.com/en-au/morphe/soulmatte-velvet-lip-mousse-V-058793/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is housed in a slender, cylindrical tube with a matte black finish. It features a screw-cap closure and a small, rounded applicator brush protruding from the top.",SP,Folding Carton Box,Soft,,130,85,22,box,243.1,Folding Box Board:18.5g; Ink - Water Based:0.3g,2,18.8,0.0463,9.34
+18,Morphe,demo-reccommandation/18.webp,https://www.mecca.com/en-au/morphe/soulmatte-velvet-lip-mousse-V-058793/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is housed in a slender, cylindrical tube with a matte black finish. It features a screw-cap closure and a small, rounded applicator brush protruding from the top.",SP,Product Information Leaflet,Soft,,85,55,12,flat,56.1,Paper - Bleached Kraft:1.2g; Ink - Water Based:0.15g,2,1.35,0.0025,1.14
+18,Morphe,demo-reccommandation/18.webp,https://www.mecca.com/en-au/morphe/soulmatte-velvet-lip-mousse-V-058793/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is housed in a slender, cylindrical tube with a matte black finish. It features a screw-cap closure and a small, rounded applicator brush protruding from the top.",TP,Shipping Carton (24 units),Rigid,,380,270,120,box,12312.0,Corrugated:385.0g,1,385.0,0.643,103.13
+18,Morphe,demo-reccommandation/18.webp,https://www.mecca.com/en-au/morphe/soulmatte-velvet-lip-mousse-V-058793/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is housed in a slender, cylindrical tube with a matte black finish. It features a screw-cap closure and a small, rounded applicator brush protruding from the top.",TP,Stretch Wrap,Soft,,400,150,80,box,4800.0,Low-Density Polyethylene:85.0g,1,85.0,0.193,52.26
+18,Morphe,demo-reccommandation/18.webp,https://www.mecca.com/en-au/morphe/soulmatte-velvet-lip-mousse-V-058793/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is housed in a slender, cylindrical tube with a matte black finish. It features a screw-cap closure and a small, rounded applicator brush protruding from the top.",TP,Wooden Pallet,Rigid,,1200,800,150,flat,144000.0,Hardwood:22000.0g,1,22000.0,8735.54,896.06
+19,Anastasia Beverly Hills,demo-reccommandation/19.webp,https://www.mecca.com/en-au/anastasia-beverly-hills/lip-velvet-V-064905/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the image:
+
+The product is presented in a slender, cylindrical glass bottle with a black twist-off cap. A small, angled applicator brush is included for precise application.",PP,Lipstick Tube (Glass Bottle),Rigid,True,85,28,120,box,285.6,Glass:52.0g,1,52.0,0.0634,10.39
+19,Anastasia Beverly Hills,demo-reccommandation/19.webp,https://www.mecca.com/en-au/anastasia-beverly-hills/lip-velvet-V-064905/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the image:
+
+The product is presented in a slender, cylindrical glass bottle with a black twist-off cap. A small, angled applicator brush is included for precise application.",PP,Twist-Off Cap (Black),Rigid,True,32,32,18,box,18.43,Polypropylene:4.2g,1,4.2,0.0096,1.68
+19,Anastasia Beverly Hills,demo-reccommandation/19.webp,https://www.mecca.com/en-au/anastasia-beverly-hills/lip-velvet-V-064905/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the image:
+
+The product is presented in a slender, cylindrical glass bottle with a black twist-off cap. A small, angled applicator brush is included for precise application.",PP,Inner Seal/Wax Liner,Soft,False,12,12,2,flat,0.29,Paraffin Wax:1.8g,1,1.8,0.0023,0.21
+19,Anastasia Beverly Hills,demo-reccommandation/19.webp,https://www.mecca.com/en-au/anastasia-beverly-hills/lip-velvet-V-064905/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the image:
+
+The product is presented in a slender, cylindrical glass bottle with a black twist-off cap. A small, angled applicator brush is included for precise application.",PP,Applicator Brush (Angled),Soft,True,45,8,3,box,1.08,Nylon:1.2g,1,1.2,0.0119,3.58
+19,Anastasia Beverly Hills,demo-reccommandation/19.webp,https://www.mecca.com/en-au/anastasia-beverly-hills/lip-velvet-V-064905/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the image:
+
+The product is presented in a slender, cylindrical glass bottle with a black twist-off cap. A small, angled applicator brush is included for precise application.",SP,Retail Carton Box (Folding),Soft,False,120,65,28,box,218.4,Folding Box Board:18.5g,1,18.5,0.0455,9.26
+19,Anastasia Beverly Hills,demo-reccommandation/19.webp,https://www.mecca.com/en-au/anastasia-beverly-hills/lip-velvet-V-064905/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the image:
+
+The product is presented in a slender, cylindrical glass bottle with a black twist-off cap. A small, angled applicator brush is included for precise application.",SP,Product Information Leaflet,Soft,False,90,60,2,flat,10.8,Paper - Bleached Kraft:2.1g,1,2.1,0.0036,1.93
+19,Anastasia Beverly Hills,demo-reccommandation/19.webp,https://www.mecca.com/en-au/anastasia-beverly-hills/lip-velvet-V-064905/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the image:
+
+The product is presented in a slender, cylindrical glass bottle with a black twist-off cap. A small, angled applicator brush is included for precise application.",TP,"Master Carton (Corrugated, 24 units)",Rigid,False,380,270,120,box,12312.0,Corrugated:385.0g,1,385.0,0.643,103.13
+19,Anastasia Beverly Hills,demo-reccommandation/19.webp,https://www.mecca.com/en-au/anastasia-beverly-hills/lip-velvet-V-064905/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the image:
+
+The product is presented in a slender, cylindrical glass bottle with a black twist-off cap. A small, angled applicator brush is included for precise application.",TP,Stretch Wrap (LDPE),Soft,False,420,280,80,box,9408.0,Low-Density Polyethylene:78.0g,1,78.0,0.1771,47.95
+19,Anastasia Beverly Hills,demo-reccommandation/19.webp,https://www.mecca.com/en-au/anastasia-beverly-hills/lip-velvet-V-064905/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the image:
+
+The product is presented in a slender, cylindrical glass bottle with a black twist-off cap. A small, angled applicator brush is included for precise application.",TP,Wooden Pallet (Softwood),Rigid,True,1200,800,150,flat,144000.0,Softwood:18500.0g,1,18500.0,7991.445,767.75
+20,MAC Cosmetics,demo-reccommandation/20.webp,https://www.mecca.com/en-au/mac-cosmetics/locked-kiss-ink-24hr-lipcolour-V-058700/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the visible elements in the photo:
+
+The product is housed in a cylindrical container with a matte-finish, deep-red hue and a screw-cap closure. A silver applicator brush is attached to a cylindrical base, suggesting a precision application method.",PP,Lipstick Tube Body,Rigid,False,125,18,110,flat,247.5,Polypropylene:8.2g,1,8.2,0.0188,3.27
+20,MAC Cosmetics,demo-reccommandation/20.webp,https://www.mecca.com/en-au/mac-cosmetics/locked-kiss-ink-24hr-lipcolour-V-058700/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the visible elements in the photo:
+
+The product is housed in a cylindrical container with a matte-finish, deep-red hue and a screw-cap closure. A silver applicator brush is attached to a cylindrical base, suggesting a precision application method.",PP,Lipstick Bullet (Formulation),,False,,,,unknown,,Paraffin Wax:2.1g; Talc:0.8g,2,2.9,0.267,0.31
+20,MAC Cosmetics,demo-reccommandation/20.webp,https://www.mecca.com/en-au/mac-cosmetics/locked-kiss-ink-24hr-lipcolour-V-058700/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the visible elements in the photo:
+
+The product is housed in a cylindrical container with a matte-finish, deep-red hue and a screw-cap closure. A silver applicator brush is attached to a cylindrical base, suggesting a precision application method.",PP,Twist Base (Applicator Mechanism),Rigid,False,32,12,24,box,9.22,Polypropylene:4.1g,1,4.1,0.0094,1.64
+20,MAC Cosmetics,demo-reccommandation/20.webp,https://www.mecca.com/en-au/mac-cosmetics/locked-kiss-ink-24hr-lipcolour-V-058700/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the visible elements in the photo:
+
+The product is housed in a cylindrical container with a matte-finish, deep-red hue and a screw-cap closure. A silver applicator brush is attached to a cylindrical base, suggesting a precision application method.",PP,Silver Applicator Brush,Soft,False,48,8,3,box,1.15,Nylon:0.6g,1,0.6,0.006,1.79
+20,MAC Cosmetics,demo-reccommandation/20.webp,https://www.mecca.com/en-au/mac-cosmetics/locked-kiss-ink-24hr-lipcolour-V-058700/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the visible elements in the photo:
+
+The product is housed in a cylindrical container with a matte-finish, deep-red hue and a screw-cap closure. A silver applicator brush is attached to a cylindrical base, suggesting a precision application method.",PP,Matte-Finish Red Cap,Rigid,False,22,22,8,box,3.87,Polypropylene:3.2g,1,3.2,0.0073,1.28
+20,MAC Cosmetics,demo-reccommandation/20.webp,https://www.mecca.com/en-au/mac-cosmetics/locked-kiss-ink-24hr-lipcolour-V-058700/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the visible elements in the photo:
+
+The product is housed in a cylindrical container with a matte-finish, deep-red hue and a screw-cap closure. A silver applicator brush is attached to a cylindrical base, suggesting a precision application method.",PP,Paper Sleeve Label,Soft,False,85,55,2,flat,9.35,Paper - Label:0.8g; Ink - Water Based:0.1g,2,0.9,0.0018,1.43
+20,MAC Cosmetics,demo-reccommandation/20.webp,https://www.mecca.com/en-au/mac-cosmetics/locked-kiss-ink-24hr-lipcolour-V-058700/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the visible elements in the photo:
+
+The product is housed in a cylindrical container with a matte-finish, deep-red hue and a screw-cap closure. A silver applicator brush is attached to a cylindrical base, suggesting a precision application method.",SP,Folding Carton Box,Rigid,False,145,90,35,box,456.75,Folding Box Board:18.5g; Ink - Water Based:0.3g,2,18.8,0.0463,9.34
+20,MAC Cosmetics,demo-reccommandation/20.webp,https://www.mecca.com/en-au/mac-cosmetics/locked-kiss-ink-24hr-lipcolour-V-058700/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the visible elements in the photo:
+
+The product is housed in a cylindrical container with a matte-finish, deep-red hue and a screw-cap closure. A silver applicator brush is attached to a cylindrical base, suggesting a precision application method.",SP,Tissue Paper Insert,Soft,False,,,,unknown,,Paper - Tissue:1.2g,1,1.2,0.0042,1.55
+20,MAC Cosmetics,demo-reccommandation/20.webp,https://www.mecca.com/en-au/mac-cosmetics/locked-kiss-ink-24hr-lipcolour-V-058700/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the visible elements in the photo:
+
+The product is housed in a cylindrical container with a matte-finish, deep-red hue and a screw-cap closure. A silver applicator brush is attached to a cylindrical base, suggesting a precision application method.",TP,Shipping Carton (24 units),Rigid,False,380,260,120,box,11856.0,Corrugated:420.0g,1,420.0,0.7014,112.5
+20,MAC Cosmetics,demo-reccommandation/20.webp,https://www.mecca.com/en-au/mac-cosmetics/locked-kiss-ink-24hr-lipcolour-V-058700/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the visible elements in the photo:
+
+The product is housed in a cylindrical container with a matte-finish, deep-red hue and a screw-cap closure. A silver applicator brush is attached to a cylindrical base, suggesting a precision application method.",TP,Corrugated Divider Insert,Rigid,False,280,180,30,flat,1512.0,Corrugated:85.0g,1,85.0,0.1419,22.77
+20,MAC Cosmetics,demo-reccommandation/20.webp,https://www.mecca.com/en-au/mac-cosmetics/locked-kiss-ink-24hr-lipcolour-V-058700/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the visible elements in the photo:
+
+The product is housed in a cylindrical container with a matte-finish, deep-red hue and a screw-cap closure. A silver applicator brush is attached to a cylindrical base, suggesting a precision application method.",TP,Stretch Wrap,Soft,False,,,,unknown,,Low-Density Polyethylene:120.0g,1,120.0,0.2724,73.78
+20,MAC Cosmetics,demo-reccommandation/20.webp,https://www.mecca.com/en-au/mac-cosmetics/locked-kiss-ink-24hr-lipcolour-V-058700/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the visible elements in the photo:
+
+The product is housed in a cylindrical container with a matte-finish, deep-red hue and a screw-cap closure. A silver applicator brush is attached to a cylindrical base, suggesting a precision application method.",TP,Wooden Pallet,Rigid,True,1200,800,150,flat,144000.0,Hardwood:22000.0g,1,22000.0,8735.54,896.06
+21,Shiseido,demo-reccommandation/21.webp,https://www.mecca.com/en-au/shiseido/modernmatte-powder-lipstick-V-853879/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the visible elements in the photo:
+
+The product is presented in a rectangular, prism-shaped container with a glossy red exterior and a black top. It features a screw-cap closure and is approximately 3.5 inches tall.",PP,Lipstick Barrel,Rigid,False,125,125,125,box,1953.12,Polypropylene:8.2g,1,8.2,0.0188,3.27
+21,Shiseido,demo-reccommandation/21.webp,https://www.mecca.com/en-au/shiseido/modernmatte-powder-lipstick-V-853879/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the visible elements in the photo:
+
+The product is presented in a rectangular, prism-shaped container with a glossy red exterior and a black top. It features a screw-cap closure and is approximately 3.5 inches tall.",PP,Lipstick Stick (Formulation),Soft,False,38,8,8,cylindrical,2.43,Paraffin Wax:2.1g; Talc:0.8g,2,2.9,0.267,0.31
+21,Shiseido,demo-reccommandation/21.webp,https://www.mecca.com/en-au/shiseido/modernmatte-powder-lipstick-V-853879/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the visible elements in the photo:
+
+The product is presented in a rectangular, prism-shaped container with a glossy red exterior and a black top. It features a screw-cap closure and is approximately 3.5 inches tall.",PP,Cap with Closure,Rigid,False,42,42,42,box,74.09,Polypropylene:3.5g,1,3.5,0.008,1.4
+21,Shiseido,demo-reccommandation/21.webp,https://www.mecca.com/en-au/shiseido/modernmatte-powder-lipstick-V-853879/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the visible elements in the photo:
+
+The product is presented in a rectangular, prism-shaped container with a glossy red exterior and a black top. It features a screw-cap closure and is approximately 3.5 inches tall.",PP,Label Wrap,Soft,False,68,28,28,cylindrical,53.31,Paper - Label:0.9g; Ink - Water Based:0.1g,2,1.0,0.002,1.6
+21,Shiseido,demo-reccommandation/21.webp,https://www.mecca.com/en-au/shiseido/modernmatte-powder-lipstick-V-853879/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the visible elements in the photo:
+
+The product is presented in a rectangular, prism-shaped container with a glossy red exterior and a black top. It features a screw-cap closure and is approximately 3.5 inches tall.",SP,Carton Box (Folding Box Board),Rigid,False,120,85,25,box,255.0,Folding Box Board:12.5g; Ink - Water Based:0.3g,2,12.8,0.0315,6.33
+21,Shiseido,demo-reccommandation/21.webp,https://www.mecca.com/en-au/shiseido/modernmatte-powder-lipstick-V-853879/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the visible elements in the photo:
+
+The product is presented in a rectangular, prism-shaped container with a glossy red exterior and a black top. It features a screw-cap closure and is approximately 3.5 inches tall.",SP,Tissue Insert,Soft,False,150,120,20,flat,360.0,Paper - Tissue:1.2g,1,1.2,0.0042,1.55
+21,Shiseido,demo-reccommandation/21.webp,https://www.mecca.com/en-au/shiseido/modernmatte-powder-lipstick-V-853879/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the visible elements in the photo:
+
+The product is presented in a rectangular, prism-shaped container with a glossy red exterior and a black top. It features a screw-cap closure and is approximately 3.5 inches tall.",TP,"Master Carton (Corrugated, 24 units)",Rigid,False,320,230,140,box,10304.0,Corrugated:385.0g; Ink - Water Based:2.1g,2,387.1,0.6483,103.72
+21,Shiseido,demo-reccommandation/21.webp,https://www.mecca.com/en-au/shiseido/modernmatte-powder-lipstick-V-853879/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the visible elements in the photo:
+
+The product is presented in a rectangular, prism-shaped container with a glossy red exterior and a black top. It features a screw-cap closure and is approximately 3.5 inches tall.",TP,Corrugated Divider Insert,Rigid,False,180,120,80,box,1728.0,Corrugated:145.0g,1,145.0,0.2421,38.84
+21,Shiseido,demo-reccommandation/21.webp,https://www.mecca.com/en-au/shiseido/modernmatte-powder-lipstick-V-853879/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the visible elements in the photo:
+
+The product is presented in a rectangular, prism-shaped container with a glossy red exterior and a black top. It features a screw-cap closure and is approximately 3.5 inches tall.",TP,Stretch Wrap (LDPE),Soft,False,380,240,120,box,10944.0,Low-Density Polyethylene:85.0g,1,85.0,0.193,52.26
+22,RMS Beauty,demo-reccommandation/22.webp,https://www.mecca.com/en-au/rms-beauty/legendary-serum-lipstick-the-nudes-V-900684/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the image:
+
+The product is housed in a cylindrical container with a matte burgundy exterior. It features a twist-up base and a circular, translucent cap, approximately 3 inches in height.",PP,Lipstick Tube (Barrel),Rigid,False,85,12,85,flat,86.7,Polypropylene:4.2g,1,4.2,0.0096,1.68
+22,RMS Beauty,demo-reccommandation/22.webp,https://www.mecca.com/en-au/rms-beauty/legendary-serum-lipstick-the-nudes-V-900684/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the image:
+
+The product is housed in a cylindrical container with a matte burgundy exterior. It features a twist-up base and a circular, translucent cap, approximately 3 inches in height.",PP,Twist-Up Base (Bottom Mechanism),Rigid,False,28,22,35,box,21.56,Acrylonitrile Butadiene Styrene:3.8g,1,3.8,0.0198,9.28
+22,RMS Beauty,demo-reccommandation/22.webp,https://www.mecca.com/en-au/rms-beauty/legendary-serum-lipstick-the-nudes-V-900684/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the image:
+
+The product is housed in a cylindrical container with a matte burgundy exterior. It features a twist-up base and a circular, translucent cap, approximately 3 inches in height.",PP,Cap (Snap-On),Rigid,False,14,14,8,box,1.57,Polypropylene:2.1g,1,2.1,0.0048,0.84
+22,RMS Beauty,demo-reccommandation/22.webp,https://www.mecca.com/en-au/rms-beauty/legendary-serum-lipstick-the-nudes-V-900684/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the image:
+
+The product is housed in a cylindrical container with a matte burgundy exterior. It features a twist-up base and a circular, translucent cap, approximately 3 inches in height.",PP,Inner Seal (Wax Disc),Soft,False,12,12,2,flat,0.29,Paraffin Wax:1.4g,1,1.4,0.0018,0.16
+22,RMS Beauty,demo-reccommandation/22.webp,https://www.mecca.com/en-au/rms-beauty/legendary-serum-lipstick-the-nudes-V-900684/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the image:
+
+The product is housed in a cylindrical container with a matte burgundy exterior. It features a twist-up base and a circular, translucent cap, approximately 3 inches in height.",PP,Product Label (Wrap),Soft,False,52,35,1,flat,1.82,Paper - Label:0.8g,1,0.8,0.0015,1.4
+22,RMS Beauty,demo-reccommandation/22.webp,https://www.mecca.com/en-au/rms-beauty/legendary-serum-lipstick-the-nudes-V-900684/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the image:
+
+The product is housed in a cylindrical container with a matte burgundy exterior. It features a twist-up base and a circular, translucent cap, approximately 3 inches in height.",SP,Carton Box (Folding),Soft,False,125,85,35,box,371.88,Folding Box Board:18.5g,1,18.5,0.0455,9.26
+22,RMS Beauty,demo-reccommandation/22.webp,https://www.mecca.com/en-au/rms-beauty/legendary-serum-lipstick-the-nudes-V-900684/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the image:
+
+The product is housed in a cylindrical container with a matte burgundy exterior. It features a twist-up base and a circular, translucent cap, approximately 3 inches in height.",SP,Tissue Insert (Protective Wrap),Soft,False,65,45,15,box,43.88,Paper - Tissue:2.1g,1,2.1,0.0073,2.7
+22,RMS Beauty,demo-reccommandation/22.webp,https://www.mecca.com/en-au/rms-beauty/legendary-serum-lipstick-the-nudes-V-900684/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the image:
+
+The product is housed in a cylindrical container with a matte burgundy exterior. It features a twist-up base and a circular, translucent cap, approximately 3 inches in height.",TP,"Retail Carton (Master Case, 48 units)",Soft,False,360,280,70,flat,7056.0,Corrugated:420.0g,1,420.0,0.7014,112.5
+22,RMS Beauty,demo-reccommandation/22.webp,https://www.mecca.com/en-au/rms-beauty/legendary-serum-lipstick-the-nudes-V-900684/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the image:
+
+The product is housed in a cylindrical container with a matte burgundy exterior. It features a twist-up base and a circular, translucent cap, approximately 3 inches in height.",TP,Stretch Wrap (Pallet Wrap),Soft,False,180,360,20,flat,1296.0,Low-Density Polyethylene:95.0g,1,95.0,0.2157,58.41
+22,RMS Beauty,demo-reccommandation/22.webp,https://www.mecca.com/en-au/rms-beauty/legendary-serum-lipstick-the-nudes-V-900684/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the image:
+
+The product is housed in a cylindrical container with a matte burgundy exterior. It features a twist-up base and a circular, translucent cap, approximately 3 inches in height.",TP,Wooden Pallet (Softwood),Soft,True,1200,800,150,flat,144000.0,Softwood:18500.0g,1,18500.0,7991.445,767.75
+23,Kylie Cosmetics,demo-reccommandation/23.webp,https://www.mecca.com/en-au/kylie-cosmetics/plumping-powder-matte-lip-V-069889/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the photo:
+
+The product is housed in a slender, cylindrical tube with a translucent pink finish. It features a screw-cap closure and is approximately 12 centimeters in height.",PP,Lipstick Tube (Cylindrical Barrel),Rigid,False,120.0,12.0,12.0,cylindrical,17.28,Polypropylene:4.2g,1,4.2,0.0096,1.68
+23,Kylie Cosmetics,demo-reccommandation/23.webp,https://www.mecca.com/en-au/kylie-cosmetics/plumping-powder-matte-lip-V-069889/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the photo:
+
+The product is housed in a slender, cylindrical tube with a translucent pink finish. It features a screw-cap closure and is approximately 12 centimeters in height.",PP,Lipstick Bullet (Formulation Core),Soft,False,8.0,4.0,2.0,box,0.06,Paraffin Wax:2.1g; Talc:0.8g,2,2.9,0.267,0.31
+23,Kylie Cosmetics,demo-reccommandation/23.webp,https://www.mecca.com/en-au/kylie-cosmetics/plumping-powder-matte-lip-V-069889/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the photo:
+
+The product is housed in a slender, cylindrical tube with a translucent pink finish. It features a screw-cap closure and is approximately 12 centimeters in height.",PP,Paper Label (Tube Wrap),Soft,False,120.0,12.0,20.0,box,28.8,Paper - Label:1.2g; Ink - Water Based:0.3g,2,1.5,0.0031,2.17
+23,Kylie Cosmetics,demo-reccommandation/23.webp,https://www.mecca.com/en-au/kylie-cosmetics/plumping-powder-matte-lip-V-069889/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the photo:
+
+The product is housed in a slender, cylindrical tube with a translucent pink finish. It features a screw-cap closure and is approximately 12 centimeters in height.",PP,Cap (Screw-Fit Closure),Rigid,False,12.0,12.0,12.0,box,1.73,Polypropylene:3.1g,1,3.1,0.0071,1.24
+23,Kylie Cosmetics,demo-reccommandation/23.webp,https://www.mecca.com/en-au/kylie-cosmetics/plumping-powder-matte-lip-V-069889/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the photo:
+
+The product is housed in a slender, cylindrical tube with a translucent pink finish. It features a screw-cap closure and is approximately 12 centimeters in height.",PP,Inner Seal (Wax Disc),Soft,False,8.0,8.0,1.0,flat,0.06,Paraffin Wax:0.4g,1,0.4,0.0005,0.05
+23,Kylie Cosmetics,demo-reccommandation/23.webp,https://www.mecca.com/en-au/kylie-cosmetics/plumping-powder-matte-lip-V-069889/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the photo:
+
+The product is housed in a slender, cylindrical tube with a translucent pink finish. It features a screw-cap closure and is approximately 12 centimeters in height.",SP,Folding Carton Box (Unit Retail Box),Rigid,False,145.0,85.0,35.0,box,431.38,Folding Box Board:18.5g; Ink - Water Based:0.8g,2,19.3,0.0475,9.49
+23,Kylie Cosmetics,demo-reccommandation/23.webp,https://www.mecca.com/en-au/kylie-cosmetics/plumping-powder-matte-lip-V-069889/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the photo:
+
+The product is housed in a slender, cylindrical tube with a translucent pink finish. It features a screw-cap closure and is approximately 12 centimeters in height.",SP,Product Insert Leaflet (Information Sheet),Soft,False,105.0,70.0,2.0,flat,14.7,Paper - Bleached Kraft:1.8g; Ink - Water Based:0.2g,2,2.0,0.0036,1.71
+23,Kylie Cosmetics,demo-reccommandation/23.webp,https://www.mecca.com/en-au/kylie-cosmetics/plumping-powder-matte-lip-V-069889/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the photo:
+
+The product is housed in a slender, cylindrical tube with a translucent pink finish. It features a screw-cap closure and is approximately 12 centimeters in height.",TP,Corrugated Master Carton (Shipping/Bulk Case),Rigid,False,360.0,245.0,120.0,box,10584.0,Corrugated:285.0g; Ink - Water Based:3.5g,2,288.5,0.4848,77.33
+23,Kylie Cosmetics,demo-reccommandation/23.webp,https://www.mecca.com/en-au/kylie-cosmetics/plumping-powder-matte-lip-V-069889/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the photo:
+
+The product is housed in a slender, cylindrical tube with a translucent pink finish. It features a screw-cap closure and is approximately 12 centimeters in height.",TP,Stretch Wrap (Pallet Wrap),Soft,False,180.0,95.0,35.0,box,598.5,Low-Density Polyethylene:85.0g,1,85.0,0.193,52.26
+23,Kylie Cosmetics,demo-reccommandation/23.webp,https://www.mecca.com/en-au/kylie-cosmetics/plumping-powder-matte-lip-V-069889/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the photo:
+
+The product is housed in a slender, cylindrical tube with a translucent pink finish. It features a screw-cap closure and is approximately 12 centimeters in height.",TP,Wooden Pallet (Hardwood Export Pallet),Rigid,True,1200.0,800.0,150.0,flat,144000.0,Hardwood:18500.0g,1,18500.0,7345.795,753.5
+24,Glossier,demo-reccommandation/24.webp,https://www.mecca.com/en-au/glossier/g-suit-soft-touch-matte-liquid-lip-creme-V-069680/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The product is housed in a cylindrical container with a light pink exterior and a sliding, twist-based closure.  A small applicator stick extends from the base of the container, revealing a visible amount of the product within.",PP,Lipstick Tube (Barrel),Rigid,True,85,12,110,flat,112.2,Polypropylene:6.2g,1,6.2,0.0142,2.47
+24,Glossier,demo-reccommandation/24.webp,https://www.mecca.com/en-au/glossier/g-suit-soft-touch-matte-liquid-lip-creme-V-069680/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The product is housed in a cylindrical container with a light pink exterior and a sliding, twist-based closure.  A small applicator stick extends from the base of the container, revealing a visible amount of the product within.",PP,Lipstick Twist Base & Mechanism,Rigid,True,22,18,35,cylindrical,13.86,Acrylonitrile Butadiene Styrene:3.1g,1,3.1,0.0162,7.57
+24,Glossier,demo-reccommandation/24.webp,https://www.mecca.com/en-au/glossier/g-suit-soft-touch-matte-liquid-lip-creme-V-069680/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The product is housed in a cylindrical container with a light pink exterior and a sliding, twist-based closure.  A small applicator stick extends from the base of the container, revealing a visible amount of the product within.",PP,Lipstick Cap,Rigid,True,14,14,12,box,2.35,Polypropylene:2.8g,1,2.8,0.0064,1.12
+24,Glossier,demo-reccommandation/24.webp,https://www.mecca.com/en-au/glossier/g-suit-soft-touch-matte-liquid-lip-creme-V-069680/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The product is housed in a cylindrical container with a light pink exterior and a sliding, twist-based closure.  A small applicator stick extends from the base of the container, revealing a visible amount of the product within.",PP,Lipstick Applicator Stick (Pencil),Rigid,True,75,2,2,cylindrical,0.3,Polypropylene:1.2g,1,1.2,0.0027,0.48
+24,Glossier,demo-reccommandation/24.webp,https://www.mecca.com/en-au/glossier/g-suit-soft-touch-matte-liquid-lip-creme-V-069680/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The product is housed in a cylindrical container with a light pink exterior and a sliding, twist-based closure.  A small applicator stick extends from the base of the container, revealing a visible amount of the product within.",PP,Lipstick Product Fill (Wax Stick),Soft,False,80,3,5,box,1.2,Paraffin Wax:3.5g,1,3.5,0.0045,0.41
+24,Glossier,demo-reccommandation/24.webp,https://www.mecca.com/en-au/glossier/g-suit-soft-touch-matte-liquid-lip-creme-V-069680/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The product is housed in a cylindrical container with a light pink exterior and a sliding, twist-based closure.  A small applicator stick extends from the base of the container, revealing a visible amount of the product within.",PP,Lipstick Label (Wrap),Soft,False,60,8,12,box,5.76,Paper - Label:0.8g,1,0.8,0.0015,1.4
+24,Glossier,demo-reccommandation/24.webp,https://www.mecca.com/en-au/glossier/g-suit-soft-touch-matte-liquid-lip-creme-V-069680/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The product is housed in a cylindrical container with a light pink exterior and a sliding, twist-based closure.  A small applicator stick extends from the base of the container, revealing a visible amount of the product within.",SP,Folding Box Board Carton,Rigid,False,125,85,140,box,1487.5,Folding Box Board:18.5g,1,18.5,0.0455,9.26
+24,Glossier,demo-reccommandation/24.webp,https://www.mecca.com/en-au/glossier/g-suit-soft-touch-matte-liquid-lip-creme-V-069680/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The product is housed in a cylindrical container with a light pink exterior and a sliding, twist-based closure.  A small applicator stick extends from the base of the container, revealing a visible amount of the product within.",SP,Tissue Paper Cushioning,Soft,False,40,40,30,box,48.0,Paper - Tissue:2.1g,1,2.1,0.0073,2.7
+24,Glossier,demo-reccommandation/24.webp,https://www.mecca.com/en-au/glossier/g-suit-soft-touch-matte-liquid-lip-creme-V-069680/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The product is housed in a cylindrical container with a light pink exterior and a sliding, twist-based closure.  A small applicator stick extends from the base of the container, revealing a visible amount of the product within.",SP,Printed Insert Leaflet,Soft,False,90,60,20,box,108.0,Paper - Bleached Kraft:1.2g,1,1.2,0.0021,1.1
+24,Glossier,demo-reccommandation/24.webp,https://www.mecca.com/en-au/glossier/g-suit-soft-touch-matte-liquid-lip-creme-V-069680/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The product is housed in a cylindrical container with a light pink exterior and a sliding, twist-based closure.  A small applicator stick extends from the base of the container, revealing a visible amount of the product within.",TP,Corrugated Shipping Carton (24 units),Rigid,False,380,260,190,box,18772.0,Corrugated:420.0g,1,420.0,0.7014,112.5
+24,Glossier,demo-reccommandation/24.webp,https://www.mecca.com/en-au/glossier/g-suit-soft-touch-matte-liquid-lip-creme-V-069680/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The product is housed in a cylindrical container with a light pink exterior and a sliding, twist-based closure.  A small applicator stick extends from the base of the container, revealing a visible amount of the product within.",TP,Corrugated Divider Insert (2-pack),Rigid,False,240,140,30,flat,1008.0,Corrugated:85.0g,1,85.0,0.1419,22.77
+24,Glossier,demo-reccommandation/24.webp,https://www.mecca.com/en-au/glossier/g-suit-soft-touch-matte-liquid-lip-creme-V-069680/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The product is housed in a cylindrical container with a light pink exterior and a sliding, twist-based closure.  A small applicator stick extends from the base of the container, revealing a visible amount of the product within.",TP,Stretch Wrap (Pallet Wrap),Soft,False,180,360,80,box,5184.0,Low-Density Polyethylene:120.0g,1,120.0,0.2724,73.78
+24,Glossier,demo-reccommandation/24.webp,https://www.mecca.com/en-au/glossier/g-suit-soft-touch-matte-liquid-lip-creme-V-069680/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the image:
+
+The product is housed in a cylindrical container with a light pink exterior and a sliding, twist-based closure.  A small applicator stick extends from the base of the container, revealing a visible amount of the product within.",TP,Wooden Pallet (Softwood),Rigid,True,1200,800,150,flat,144000.0,Softwood:1850.0g,1,1850.0,799.1445,76.78
+25,BYREDO,demo-reccommandation/25.webp,https://www.mecca.com/en-au/byredo/liquid-lipstick-vinyl-V-057348/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the image:
+
+The product is presented in a tall, cylindrical container with a gradient of colour from a darker brown at the base to a lighter, reddish-brown at the top. It features a screw-cap closure and a slender applicator wand.",PP,Lipstick Tube Body,Rigid,,125,15,110,flat,206.25,Polypropylene:8.2g,1,8.2,0.0188,3.27
+25,BYREDO,demo-reccommandation/25.webp,https://www.mecca.com/en-au/byredo/liquid-lipstick-vinyl-V-057348/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the image:
+
+The product is presented in a tall, cylindrical container with a gradient of colour from a darker brown at the base to a lighter, reddish-brown at the top. It features a screw-cap closure and a slender applicator wand.",PP,Lipstick Barrel (Inner Moulded Container),Rigid,,115,13,95,flat,142.03,Polypropylene:4.1g,1,4.1,0.0094,1.64
+25,BYREDO,demo-reccommandation/25.webp,https://www.mecca.com/en-au/byredo/liquid-lipstick-vinyl-V-057348/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the image:
+
+The product is presented in a tall, cylindrical container with a gradient of colour from a darker brown at the base to a lighter, reddish-brown at the top. It features a screw-cap closure and a slender applicator wand.",PP,Lipstick Stick (Product Fill),Soft,,90,8,5,box,3.6,Paraffin Wax:2.1g,1,2.1,0.0027,0.25
+25,BYREDO,demo-reccommandation/25.webp,https://www.mecca.com/en-au/byredo/liquid-lipstick-vinyl-V-057348/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the image:
+
+The product is presented in a tall, cylindrical container with a gradient of colour from a darker brown at the base to a lighter, reddish-brown at the top. It features a screw-cap closure and a slender applicator wand.",PP,Screw Cap Closure,Rigid,,22,22,18,box,8.71,Polypropylene:3.2g,1,3.2,0.0073,1.28
+25,BYREDO,demo-reccommandation/25.webp,https://www.mecca.com/en-au/byredo/liquid-lipstick-vinyl-V-057348/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the image:
+
+The product is presented in a tall, cylindrical container with a gradient of colour from a darker brown at the base to a lighter, reddish-brown at the top. It features a screw-cap closure and a slender applicator wand.",PP,Applicator Wand (Twist-Up Brush),Rigid,,85,8,5,box,3.4,Polypropylene:2.8g,1,2.8,0.0064,1.12
+25,BYREDO,demo-reccommandation/25.webp,https://www.mecca.com/en-au/byredo/liquid-lipstick-vinyl-V-057348/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the image:
+
+The product is presented in a tall, cylindrical container with a gradient of colour from a darker brown at the base to a lighter, reddish-brown at the top. It features a screw-cap closure and a slender applicator wand.",PP,Paper Label (Wrap-Around),Soft,,60,40,1,flat,2.4,Paper - Label:0.8g,1,0.8,0.0015,1.4
+25,BYREDO,demo-reccommandation/25.webp,https://www.mecca.com/en-au/byredo/liquid-lipstick-vinyl-V-057348/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the image:
+
+The product is presented in a tall, cylindrical container with a gradient of colour from a darker brown at the base to a lighter, reddish-brown at the top. It features a screw-cap closure and a slender applicator wand.",SP,Folding Carton Box,Rigid,,145,90,55,box,717.75,Folding Box Board:18.5g,1,18.5,0.0455,9.26
+25,BYREDO,demo-reccommandation/25.webp,https://www.mecca.com/en-au/byredo/liquid-lipstick-vinyl-V-057348/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the image:
+
+The product is presented in a tall, cylindrical container with a gradient of colour from a darker brown at the base to a lighter, reddish-brown at the top. It features a screw-cap closure and a slender applicator wand.",SP,Tissue Paper Insert,Soft,,120,80,10,flat,96.0,Paper - Tissue:2.1g,1,2.1,0.0073,2.7
+25,BYREDO,demo-reccommandation/25.webp,https://www.mecca.com/en-au/byredo/liquid-lipstick-vinyl-V-057348/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the image:
+
+The product is presented in a tall, cylindrical container with a gradient of colour from a darker brown at the base to a lighter, reddish-brown at the top. It features a screw-cap closure and a slender applicator wand.",SP,Product Information Leaflet,Soft,,90,60,2,flat,10.8,Paper - Bleached Kraft:1.2g,1,1.2,0.0021,1.1
+25,BYREDO,demo-reccommandation/25.webp,https://www.mecca.com/en-au/byredo/liquid-lipstick-vinyl-V-057348/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the image:
+
+The product is presented in a tall, cylindrical container with a gradient of colour from a darker brown at the base to a lighter, reddish-brown at the top. It features a screw-cap closure and a slender applicator wand.",TP,Shipping Carton (24 units),Rigid,,380,250,150,box,14250.0,Corrugated:420.0g,1,420.0,0.7014,112.5
+25,BYREDO,demo-reccommandation/25.webp,https://www.mecca.com/en-au/byredo/liquid-lipstick-vinyl-V-057348/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the image:
+
+The product is presented in a tall, cylindrical container with a gradient of colour from a darker brown at the base to a lighter, reddish-brown at the top. It features a screw-cap closure and a slender applicator wand.",TP,Corrugated Divider Insert (2-pack),Rigid,,280,180,30,flat,1512.0,Corrugated:85.0g,1,85.0,0.1419,22.77
+25,BYREDO,demo-reccommandation/25.webp,https://www.mecca.com/en-au/byredo/liquid-lipstick-vinyl-V-057348/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the image:
+
+The product is presented in a tall, cylindrical container with a gradient of colour from a darker brown at the base to a lighter, reddish-brown at the top. It features a screw-cap closure and a slender applicator wand.",TP,Stretch Wrap (Pallet Wrap),Soft,,180,360,2.5,flat,162.0,Low-Density Polyethylene:120.0g,1,120.0,0.2724,73.78
+25,BYREDO,demo-reccommandation/25.webp,https://www.mecca.com/en-au/byredo/liquid-lipstick-vinyl-V-057348/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the image:
+
+The product is presented in a tall, cylindrical container with a gradient of colour from a darker brown at the base to a lighter, reddish-brown at the top. It features a screw-cap closure and a slender applicator wand.",TP,Wooden Pallet (Softwood),Rigid,,1200,800,150,flat,144000.0,Softwood:22000.0g,1,22000.0,9503.34,913.0
+26,MAC Cosmetics,demo-reccommandation/26.webp,https://www.mecca.com/en-au/mac-cosmetics/retro-matte-liquid-lipcolour-chili-addict-I-058658/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical container with a matte red finish and a screw-cap closure. A black applicator wand extends from the top of the container, designed for precise application.",PP,Lipstick Tube (Barrel),Rigid,True,85,12,90,flat,91.8,Polypropylene:4.2g,1,4.2,0.0096,1.68
+26,MAC Cosmetics,demo-reccommandation/26.webp,https://www.mecca.com/en-au/mac-cosmetics/retro-matte-liquid-lipcolour-chili-addict-I-058658/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical container with a matte red finish and a screw-cap closure. A black applicator wand extends from the top of the container, designed for precise application.",PP,Lipstick Bullet (Formulation),Soft,False,6,4,3,cylindrical,0.07,Paraffin Wax:2.1g; Talc:0.8g,2,2.9,0.267,0.31
+26,MAC Cosmetics,demo-reccommandation/26.webp,https://www.mecca.com/en-au/mac-cosmetics/retro-matte-liquid-lipcolour-chili-addict-I-058658/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical container with a matte red finish and a screw-cap closure. A black applicator wand extends from the top of the container, designed for precise application.",PP,Twist Base (Housing),Rigid,True,28,18,22,box,11.09,Polypropylene:3.1g,1,3.1,0.0071,1.24
+26,MAC Cosmetics,demo-reccommandation/26.webp,https://www.mecca.com/en-au/mac-cosmetics/retro-matte-liquid-lipcolour-chili-addict-I-058658/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical container with a matte red finish and a screw-cap closure. A black applicator wand extends from the top of the container, designed for precise application.",PP,Twist Mechanism (Screw & Collar),Rigid,True,12,8,15,box,1.44,Polypropylene:1.4g,1,1.4,0.0032,0.56
+26,MAC Cosmetics,demo-reccommandation/26.webp,https://www.mecca.com/en-au/mac-cosmetics/retro-matte-liquid-lipcolour-chili-addict-I-058658/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical container with a matte red finish and a screw-cap closure. A black applicator wand extends from the top of the container, designed for precise application.",PP,Applicator Wand,Rigid,True,65,3,3,cylindrical,0.58,Polypropylene:2.8g,1,2.8,0.0064,1.12
+26,MAC Cosmetics,demo-reccommandation/26.webp,https://www.mecca.com/en-au/mac-cosmetics/retro-matte-liquid-lipcolour-chili-addict-I-058658/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical container with a matte red finish and a screw-cap closure. A black applicator wand extends from the top of the container, designed for precise application.",PP,Cap (Closure),Rigid,True,12,12,8,box,1.15,Polypropylene:2.1g,1,2.1,0.0048,0.84
+26,MAC Cosmetics,demo-reccommandation/26.webp,https://www.mecca.com/en-au/mac-cosmetics/retro-matte-liquid-lipcolour-chili-addict-I-058658/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical container with a matte red finish and a screw-cap closure. A black applicator wand extends from the top of the container, designed for precise application.",PP,Label (Wrap),Soft,False,45,22,1,flat,0.99,Paper - Label:0.8g; Ink - Water Based:0.2g,2,1.0,0.002,1.46
+26,MAC Cosmetics,demo-reccommandation/26.webp,https://www.mecca.com/en-au/mac-cosmetics/retro-matte-liquid-lipcolour-chili-addict-I-058658/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical container with a matte red finish and a screw-cap closure. A black applicator wand extends from the top of the container, designed for precise application.",SP,Carton Box (Unit),Rigid,False,140,85,220,box,2618.0,Folding Box Board:18.5g; Ink - Water Based:0.8g,2,19.3,0.0475,9.49
+26,MAC Cosmetics,demo-reccommandation/26.webp,https://www.mecca.com/en-au/mac-cosmetics/retro-matte-liquid-lipcolour-chili-addict-I-058658/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical container with a matte red finish and a screw-cap closure. A black applicator wand extends from the top of the container, designed for precise application.",SP,Tissue Insert (Protective),Soft,False,120,90,30,box,324.0,Paper - Tissue:2.1g,1,2.1,0.0073,2.7
+26,MAC Cosmetics,demo-reccommandation/26.webp,https://www.mecca.com/en-au/mac-cosmetics/retro-matte-liquid-lipcolour-chili-addict-I-058658/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical container with a matte red finish and a screw-cap closure. A black applicator wand extends from the top of the container, designed for precise application.",TP,Master Carton (Shipping),Rigid,False,320,240,160,box,12288.0,Corrugated:42.5g; Ink - Water Based:1.2g,2,43.7,0.074,11.72
+26,MAC Cosmetics,demo-reccommandation/26.webp,https://www.mecca.com/en-au/mac-cosmetics/retro-matte-liquid-lipcolour-chili-addict-I-058658/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical container with a matte red finish and a screw-cap closure. A black applicator wand extends from the top of the container, designed for precise application.",TP,Stretch Wrap (Pallet),Soft,False,180,900,80,box,12960.0,Low-Density Polyethylene:125.0g,1,125.0,0.2838,76.85
+26,MAC Cosmetics,demo-reccommandation/26.webp,https://www.mecca.com/en-au/mac-cosmetics/retro-matte-liquid-lipcolour-chili-addict-I-058658/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical container with a matte red finish and a screw-cap closure. A black applicator wand extends from the top of the container, designed for precise application.",TP,Wooden Pallet (Base),Rigid,True,1200,800,150,flat,144000.0,Hardwood:22000.0g,1,22000.0,8735.54,896.06
+27,Ellis Faas,demo-reccommandation/27.webp,https://www.mecca.com/en-au/ellis-faas/milky-lips-V-006804/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the visible elements in the image:
+
+The product is presented in a slender, cylindrical container with a metallic silver base and a black upper section. It features a screw-cap closure and a pointed applicator brush extending upwards from the container.",PP,Lipstick Tube Body,Rigid,,85,12,100,flat,102.0,Polypropylene:6.2g,1,6.2,0.0142,2.47
+27,Ellis Faas,demo-reccommandation/27.webp,https://www.mecca.com/en-au/ellis-faas/milky-lips-V-006804/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the visible elements in the image:
+
+The product is presented in a slender, cylindrical container with a metallic silver base and a black upper section. It features a screw-cap closure and a pointed applicator brush extending upwards from the container.",PP,Lipstick Barrel (Inner Moulded Container),Rigid,,65,8,80,flat,41.6,Polypropylene:3.8g,1,3.8,0.0087,1.52
+27,Ellis Faas,demo-reccommandation/27.webp,https://www.mecca.com/en-au/ellis-faas/milky-lips-V-006804/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the visible elements in the image:
+
+The product is presented in a slender, cylindrical container with a metallic silver base and a black upper section. It features a screw-cap closure and a pointed applicator brush extending upwards from the container.",PP,Lipstick Stick (Product Fill),Soft,,45,4,12,box,2.16,Paraffin Wax:2.1g; Talc:0.8g,2,2.9,0.267,0.31
+27,Ellis Faas,demo-reccommandation/27.webp,https://www.mecca.com/en-au/ellis-faas/milky-lips-V-006804/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the visible elements in the image:
+
+The product is presented in a slender, cylindrical container with a metallic silver base and a black upper section. It features a screw-cap closure and a pointed applicator brush extending upwards from the container.",PP,Applicator Brush (Twist-Out),Soft,True,35,3,20,flat,2.1,Nylon:0.5g; Rubber - Silicone:0.2g,2,0.7,0.0057,2.4
+27,Ellis Faas,demo-reccommandation/27.webp,https://www.mecca.com/en-au/ellis-faas/milky-lips-V-006804/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the visible elements in the image:
+
+The product is presented in a slender, cylindrical container with a metallic silver base and a black upper section. It features a screw-cap closure and a pointed applicator brush extending upwards from the container.",PP,Base Cap (Screw-On),Rigid,True,15,12,18,box,3.24,Polypropylene:2.1g,1,2.1,0.0048,0.84
+27,Ellis Faas,demo-reccommandation/27.webp,https://www.mecca.com/en-au/ellis-faas/milky-lips-V-006804/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the visible elements in the image:
+
+The product is presented in a slender, cylindrical container with a metallic silver base and a black upper section. It features a screw-cap closure and a pointed applicator brush extending upwards from the container.",PP,Inner Seal Liner,Rigid,,8,8,2,flat,0.13,Low-Density Polyethylene:0.3g,1,0.3,0.0007,0.18
+27,Ellis Faas,demo-reccommandation/27.webp,https://www.mecca.com/en-au/ellis-faas/milky-lips-V-006804/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the visible elements in the image:
+
+The product is presented in a slender, cylindrical container with a metallic silver base and a black upper section. It features a screw-cap closure and a pointed applicator brush extending upwards from the container.",PP,Product Label (Wrap),Rigid,,40,60,10,flat,24.0,Paper - Label:0.8g; Ink - Water Based:0.1g,2,0.9,0.0018,1.43
+27,Ellis Faas,demo-reccommandation/27.webp,https://www.mecca.com/en-au/ellis-faas/milky-lips-V-006804/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the visible elements in the image:
+
+The product is presented in a slender, cylindrical container with a metallic silver base and a black upper section. It features a screw-cap closure and a pointed applicator brush extending upwards from the container.",SP,Carton Box (Folding Box Board),Rigid,,120,85,180,cylindrical,1836.0,Folding Box Board:18.5g; Ink - Water Based:0.4g,2,18.9,0.0465,9.37
+27,Ellis Faas,demo-reccommandation/27.webp,https://www.mecca.com/en-au/ellis-faas/milky-lips-V-006804/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the visible elements in the image:
+
+The product is presented in a slender, cylindrical container with a metallic silver base and a black upper section. It features a screw-cap closure and a pointed applicator brush extending upwards from the container.",SP,Product Information Leaflet,Soft,,90,60,120,box,648.0,Paper - Bleached Kraft:2.1g; Ink - Water Based:0.3g,2,2.4,0.0044,2.01
+27,Ellis Faas,demo-reccommandation/27.webp,https://www.mecca.com/en-au/ellis-faas/milky-lips-V-006804/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the visible elements in the image:
+
+The product is presented in a slender, cylindrical container with a metallic silver base and a black upper section. It features a screw-cap closure and a pointed applicator brush extending upwards from the container.",TP,Shipping Carton (Corrugated - 24 units),Rigid,,380,260,150,box,14820.0,Corrugated:420.0g; Ink - Water Based:2.8g,2,422.8,0.7085,113.29
+27,Ellis Faas,demo-reccommandation/27.webp,https://www.mecca.com/en-au/ellis-faas/milky-lips-V-006804/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the visible elements in the image:
+
+The product is presented in a slender, cylindrical container with a metallic silver base and a black upper section. It features a screw-cap closure and a pointed applicator brush extending upwards from the container.",TP,Stretch Wrap (Pallet Wrap),Rigid,,180,850,200,cylindrical,30600.0,Low-Density Polyethylene:125.0g,1,125.0,0.2838,76.85
+27,Ellis Faas,demo-reccommandation/27.webp,https://www.mecca.com/en-au/ellis-faas/milky-lips-V-006804/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption based solely on the visible elements in the image:
+
+The product is presented in a slender, cylindrical container with a metallic silver base and a black upper section. It features a screw-cap closure and a pointed applicator brush extending upwards from the container.",TP,Wooden Pallet (Softwood),Rigid,True,1200,800,150,flat,144000.0,Softwood:22000.0g,1,22000.0,9503.34,913.0
+28,Clinique,demo-reccommandation/28.webp,https://www.mecca.com/en-au/clinique/clinique-pop-longwear-lipstick-shine-satin-V-066914/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical container with a slightly tapered bottom, featuring a translucent green hue. It has a sliding silver closure and appears to be approximately 10 centimeters in height.",PP,Lipstick Tube (Barrel),Rigid,True,85,12,110,flat,112.2,Polypropylene:6.2g,1,6.2,0.0142,2.47
+28,Clinique,demo-reccommandation/28.webp,https://www.mecca.com/en-au/clinique/clinique-pop-longwear-lipstick-shine-satin-V-066914/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical container with a slightly tapered bottom, featuring a translucent green hue. It has a sliding silver closure and appears to be approximately 10 centimeters in height.",PP,Lipstick Twist Base (Bottom Section),Rigid,True,28,22,35,box,21.56,Polypropylene:3.1g,1,3.1,0.0071,1.24
+28,Clinique,demo-reccommandation/28.webp,https://www.mecca.com/en-au/clinique/clinique-pop-longwear-lipstick-shine-satin-V-066914/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical container with a slightly tapered bottom, featuring a translucent green hue. It has a sliding silver closure and appears to be approximately 10 centimeters in height.",PP,Cap (Top Closure),Rigid,True,14,14,12,box,2.35,Polypropylene:2.8g,1,2.8,0.0064,1.12
+28,Clinique,demo-reccommandation/28.webp,https://www.mecca.com/en-au/clinique/clinique-pop-longwear-lipstick-shine-satin-V-066914/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical container with a slightly tapered bottom, featuring a translucent green hue. It has a sliding silver closure and appears to be approximately 10 centimeters in height.",PP,Inner Seal/Wax Disc,Soft,False,8,8,2,flat,0.13,Paraffin Wax:1.2g,1,1.2,0.0015,0.14
+28,Clinique,demo-reccommandation/28.webp,https://www.mecca.com/en-au/clinique/clinique-pop-longwear-lipstick-shine-satin-V-066914/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical container with a slightly tapered bottom, featuring a translucent green hue. It has a sliding silver closure and appears to be approximately 10 centimeters in height.",PP,Product Label (Wrap),Soft,False,52,35,1.2,flat,2.18,Paper - Label:0.8g,1,0.8,0.0015,1.4
+28,Clinique,demo-reccommandation/28.webp,https://www.mecca.com/en-au/clinique/clinique-pop-longwear-lipstick-shine-satin-V-066914/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical container with a slightly tapered bottom, featuring a translucent green hue. It has a sliding silver closure and appears to be approximately 10 centimeters in height.",SP,Carton Box (Unit Retail Box),Rigid,False,125,85,55,box,584.38,Folding Box Board:18.5g,1,18.5,0.0455,9.26
+28,Clinique,demo-reccommandation/28.webp,https://www.mecca.com/en-au/clinique/clinique-pop-longwear-lipstick-shine-satin-V-066914/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical container with a slightly tapered bottom, featuring a translucent green hue. It has a sliding silver closure and appears to be approximately 10 centimeters in height.",SP,Product Insert Leaflet,Soft,False,88,62,0.3,flat,1.64,Paper - Bleached Kraft:2.1g,1,2.1,0.0036,1.93
+28,Clinique,demo-reccommandation/28.webp,https://www.mecca.com/en-au/clinique/clinique-pop-longwear-lipstick-shine-satin-V-066914/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical container with a slightly tapered bottom, featuring a translucent green hue. It has a sliding silver closure and appears to be approximately 10 centimeters in height.",TP,Master Carton (Shipping Carton – 24 units),Rigid,False,380,245,145,box,13499.5,Corrugated:425.0g,1,425.0,0.7097,113.84
+28,Clinique,demo-reccommandation/28.webp,https://www.mecca.com/en-au/clinique/clinique-pop-longwear-lipstick-shine-satin-V-066914/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical container with a slightly tapered bottom, featuring a translucent green hue. It has a sliding silver closure and appears to be approximately 10 centimeters in height.",TP,Stretch Wrap (Pallet Wrap),Soft,False,180,360,0.1,flat,6.48,Low-Density Polyethylene:85.0g,1,85.0,0.193,52.26
+28,Clinique,demo-reccommandation/28.webp,https://www.mecca.com/en-au/clinique/clinique-pop-longwear-lipstick-shine-satin-V-066914/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing the visible elements of the product photo:
+
+The product is presented in a cylindrical container with a slightly tapered bottom, featuring a translucent green hue. It has a sliding silver closure and appears to be approximately 10 centimeters in height.",TP,Wooden Pallet (Hardwood),Rigid,True,1200,800,150,flat,144000.0,Hardwood:18500.0g,1,18500.0,7345.795,753.5
+29,Urban Decay,demo-reccommandation/29.webp,https://www.mecca.com/en-au/urban-decay/vice-lip-bond-V-057737/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is presented in a tall, rectangular container with a vibrant red exterior and a darker purple base. It features a screw-top closure and a silver applicator wand, approximately 12 centimeters in height.",PP,Lipstick Tube (Barrel),Rigid,False,125,18,125,flat,281.25,Polypropylene:8.2g,1,8.2,0.0188,3.27
+29,Urban Decay,demo-reccommandation/29.webp,https://www.mecca.com/en-au/urban-decay/vice-lip-bond-V-057737/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is presented in a tall, rectangular container with a vibrant red exterior and a darker purple base. It features a screw-top closure and a silver applicator wand, approximately 12 centimeters in height.",PP,Lipstick Bullet (Stick Core),Rigid,False,12,8,12,box,1.15,Paraffin Wax:2.1g; Talc:0.8g,2,2.9,0.267,0.31
+29,Urban Decay,demo-reccommandation/29.webp,https://www.mecca.com/en-au/urban-decay/vice-lip-bond-V-057737/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is presented in a tall, rectangular container with a vibrant red exterior and a darker purple base. It features a screw-top closure and a silver applicator wand, approximately 12 centimeters in height.",PP,Cap (Twist-Off),Rigid,True,22,22,12,box,5.81,Polypropylene:4.1g,1,4.1,0.0094,1.64
+29,Urban Decay,demo-reccommandation/29.webp,https://www.mecca.com/en-au/urban-decay/vice-lip-bond-V-057737/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is presented in a tall, rectangular container with a vibrant red exterior and a darker purple base. It features a screw-top closure and a silver applicator wand, approximately 12 centimeters in height.",PP,Applicator Wand (Pull-Out),Rigid,True,65,5,5,cylindrical,1.62,Polypropylene:1.8g,1,1.8,0.0041,0.72
+29,Urban Decay,demo-reccommandation/29.webp,https://www.mecca.com/en-au/urban-decay/vice-lip-bond-V-057737/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is presented in a tall, rectangular container with a vibrant red exterior and a darker purple base. It features a screw-top closure and a silver applicator wand, approximately 12 centimeters in height.",PP,Inner Seal (Wax Disc),Rigid,False,12,12,2,flat,0.29,Paraffin Wax:0.9g,1,0.9,0.0012,0.11
+29,Urban Decay,demo-reccommandation/29.webp,https://www.mecca.com/en-au/urban-decay/vice-lip-bond-V-057737/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is presented in a tall, rectangular container with a vibrant red exterior and a darker purple base. It features a screw-top closure and a silver applicator wand, approximately 12 centimeters in height.",PP,Paper Sleeve (Outer Wrap),Soft,False,140,90,20,flat,252.0,Paper - Bleached Kraft:2.4g,1,2.4,0.0042,2.21
+29,Urban Decay,demo-reccommandation/29.webp,https://www.mecca.com/en-au/urban-decay/vice-lip-bond-V-057737/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is presented in a tall, rectangular container with a vibrant red exterior and a darker purple base. It features a screw-top closure and a silver applicator wand, approximately 12 centimeters in height.",SP,Folding Carton Box,Rigid,False,150,100,25,flat,375.0,Folding Box Board:4.2g,1,4.2,0.0103,2.1
+29,Urban Decay,demo-reccommandation/29.webp,https://www.mecca.com/en-au/urban-decay/vice-lip-bond-V-057737/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is presented in a tall, rectangular container with a vibrant red exterior and a darker purple base. It features a screw-top closure and a silver applicator wand, approximately 12 centimeters in height.",SP,Product Information Leaflet,Soft,False,85,55,20,box,93.5,Paper - Bleached Kraft:0.8g,1,0.8,0.0014,0.74
+29,Urban Decay,demo-reccommandation/29.webp,https://www.mecca.com/en-au/urban-decay/vice-lip-bond-V-057737/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is presented in a tall, rectangular container with a vibrant red exterior and a darker purple base. It features a screw-top closure and a silver applicator wand, approximately 12 centimeters in height.",TP,"Shipping Carton (Master Case, 48 units)",Rigid,False,350,240,50,flat,4200.0,Corrugated:385.0g,1,385.0,0.643,103.13
+29,Urban Decay,demo-reccommandation/29.webp,https://www.mecca.com/en-au/urban-decay/vice-lip-bond-V-057737/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is presented in a tall, rectangular container with a vibrant red exterior and a darker purple base. It features a screw-top closure and a silver applicator wand, approximately 12 centimeters in height.",TP,Corrugated Divider Insert (4-pack),Rigid,False,320,220,30,flat,2112.0,Corrugated:120.0g,1,120.0,0.2004,32.14
+29,Urban Decay,demo-reccommandation/29.webp,https://www.mecca.com/en-au/urban-decay/vice-lip-bond-V-057737/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is presented in a tall, rectangular container with a vibrant red exterior and a darker purple base. It features a screw-top closure and a silver applicator wand, approximately 12 centimeters in height.",TP,Stretch Wrap (Pallet Wrap),Soft,False,180,120,80,box,1728.0,Low-Density Polyethylene:145.0g,1,145.0,0.3291,89.15
+29,Urban Decay,demo-reccommandation/29.webp,https://www.mecca.com/en-au/urban-decay/vice-lip-bond-V-057737/?cgpath=makeup-lips-lipstick,True,"Here's a factual caption describing only what's visible in the photo:
+
+The product is presented in a tall, rectangular container with a vibrant red exterior and a darker purple base. It features a screw-top closure and a silver applicator wand, approximately 12 centimeters in height.",TP,Wooden Pallet (Softwood),Soft,True,1200,800,150,flat,144000.0,Softwood:22000.0g,1,22000.0,9503.34,913.0
+30,MAC Cosmetics,demo-reccommandation/30.webp,https://www.mecca.com/en-au/mac-cosmetics/locked-kiss-lipstick-V-062255/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the image:
+
+The product is presented in a cylindrical, silver container with a twist-up base. A stick of coral-colored lipstick extends from the tube, and the container is approximately 10 centimeters in length.",PP,Lipstick Tube (Aluminium),Rigid,,102,12,12,cylindrical,14.69,Aluminium:185g,1,185.0,3.9331,439.7
+30,MAC Cosmetics,demo-reccommandation/30.webp,https://www.mecca.com/en-au/mac-cosmetics/locked-kiss-lipstick-V-062255/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the image:
+
+The product is presented in a cylindrical, silver container with a twist-up base. A stick of coral-colored lipstick extends from the tube, and the container is approximately 10 centimeters in length.",PP,Lipstick Stick (Wax/Oil Base),Soft,,68,4,4,cylindrical,1.09,Paraffin Wax:32g; Talc:2g,2,34.0,0.7018,3.87
+30,MAC Cosmetics,demo-reccommandation/30.webp,https://www.mecca.com/en-au/mac-cosmetics/locked-kiss-lipstick-V-062255/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the image:
+
+The product is presented in a cylindrical, silver container with a twist-up base. A stick of coral-colored lipstick extends from the tube, and the container is approximately 10 centimeters in length.",PP,Twist-Up Base (Aluminium),Rigid,,32,12,12,cylindrical,4.61,Aluminium:85g,1,85.0,1.8071,202.03
+30,MAC Cosmetics,demo-reccommandation/30.webp,https://www.mecca.com/en-au/mac-cosmetics/locked-kiss-lipstick-V-062255/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the image:
+
+The product is presented in a cylindrical, silver container with a twist-up base. A stick of coral-colored lipstick extends from the tube, and the container is approximately 10 centimeters in length.",PP,Cap (Aluminium),Rigid,,24,24,12,box,6.91,Aluminium:62g,1,62.0,1.3181,147.36
+30,MAC Cosmetics,demo-reccommandation/30.webp,https://www.mecca.com/en-au/mac-cosmetics/locked-kiss-lipstick-V-062255/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the image:
+
+The product is presented in a cylindrical, silver container with a twist-up base. A stick of coral-colored lipstick extends from the tube, and the container is approximately 10 centimeters in length.",PP,Inner Seal (Plastic),Rigid,,8,8,2,flat,0.13,Polypropylene:2g,1,2.0,0.0046,0.8
+30,MAC Cosmetics,demo-reccommandation/30.webp,https://www.mecca.com/en-au/mac-cosmetics/locked-kiss-lipstick-V-062255/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the image:
+
+The product is presented in a cylindrical, silver container with a twist-up base. A stick of coral-colored lipstick extends from the tube, and the container is approximately 10 centimeters in length.",PP,Product Label (Paper),Soft,,54,86,12,flat,55.73,Paper - Label:3g; Ink - Water Based:0.2g,2,3.2,0.0061,5.3
+30,MAC Cosmetics,demo-reccommandation/30.webp,https://www.mecca.com/en-au/mac-cosmetics/locked-kiss-lipstick-V-062255/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the image:
+
+The product is presented in a cylindrical, silver container with a twist-up base. A stick of coral-colored lipstick extends from the tube, and the container is approximately 10 centimeters in length.",SP,Retail Carton Box (Folding Board),Rigid,,125,85,35,box,371.88,Folding Box Board:18g; Ink - Water Based:0.8g,2,18.8,0.0463,9.24
+30,MAC Cosmetics,demo-reccommandation/30.webp,https://www.mecca.com/en-au/mac-cosmetics/locked-kiss-lipstick-V-062255/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the image:
+
+The product is presented in a cylindrical, silver container with a twist-up base. A stick of coral-colored lipstick extends from the tube, and the container is approximately 10 centimeters in length.",SP,Tissue Paper Wrap (Paper),Soft,,100,120,10,flat,120.0,Paper - Tissue:4g,1,4.0,0.0138,5.15
+30,MAC Cosmetics,demo-reccommandation/30.webp,https://www.mecca.com/en-au/mac-cosmetics/locked-kiss-lipstick-V-062255/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the image:
+
+The product is presented in a cylindrical, silver container with a twist-up base. A stick of coral-colored lipstick extends from the tube, and the container is approximately 10 centimeters in length.",SP,Product Information Leaflet (Paper),Soft,,88,58,2,flat,10.21,Paper - Bleached Kraft:2g; Ink - Water Based:0.3g,2,2.3,0.0043,1.92
+30,MAC Cosmetics,demo-reccommandation/30.webp,https://www.mecca.com/en-au/mac-cosmetics/locked-kiss-lipstick-V-062255/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the image:
+
+The product is presented in a cylindrical, silver container with a twist-up base. A stick of coral-colored lipstick extends from the tube, and the container is approximately 10 centimeters in length.",TP,"Master Carton (Folding Board, 24 units)",Rigid,,320,220,80,box,5632.0,Folding Box Board:420g; Ink - Water Based:3.5g,2,423.5,1.0421,211.15
+30,MAC Cosmetics,demo-reccommandation/30.webp,https://www.mecca.com/en-au/mac-cosmetics/locked-kiss-lipstick-V-062255/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the image:
+
+The product is presented in a cylindrical, silver container with a twist-up base. A stick of coral-colored lipstick extends from the tube, and the container is approximately 10 centimeters in length.",TP,Corrugated Divider Insert (24 cells),Rigid,,280,180,60,box,3024.0,Corrugated:185g,1,185.0,0.309,49.55
+30,MAC Cosmetics,demo-reccommandation/30.webp,https://www.mecca.com/en-au/mac-cosmetics/locked-kiss-lipstick-V-062255/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the image:
+
+The product is presented in a cylindrical, silver container with a twist-up base. A stick of coral-colored lipstick extends from the tube, and the container is approximately 10 centimeters in length.",TP,Stretch Wrap (LDPE Film),Soft,,420,280,80,box,9408.0,Low-Density Polyethylene:95g,1,95.0,0.2157,58.41
+30,MAC Cosmetics,demo-reccommandation/30.webp,https://www.mecca.com/en-au/mac-cosmetics/locked-kiss-lipstick-V-062255/?cgpath=makeup-lips-lipstick,True,"Here’s a factual caption describing only what’s visible in the image:
+
+The product is presented in a cylindrical, silver container with a twist-up base. A stick of coral-colored lipstick extends from the tube, and the container is approximately 10 centimeters in length.",TP,Wooden Pallet (Softwood),Rigid,,1200,800,150,flat,144000.0,Softwood:22000g,1,22000.0,9503.34,913.0

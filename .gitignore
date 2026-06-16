@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.log
+.DS_Store
+.ruff_cache/
+
+data/
+eval/results/
+
+dataset/*
+!dataset/.gitkeep
+*.safetensors
+*.bin
+*.pt
+*.ckpt
+*.gguf
+*.tar.gz
+*.zip
+
+# local backup of pre-rewrite history (do not commit)
+.git.backup/

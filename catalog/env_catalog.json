@@ -1,0 +1,534 @@
+{
+  "n_materials": 66,
+  "source": "mecca-streamlit materials_catalog.json (environmental block)",
+  "materials": {
+    "Acrylic": {
+      "material_abbrev": null,
+      "material_type": "Plastic",
+      "recycling_potential": 0.0,
+      "carbon_kg": 3.32,
+      "water_consumption": 1171.5,
+      "fossil_fuel_use": 56.85
+    },
+    "Acrylonitrile Butadiene Styrene": {
+      "material_abbrev": "ABS",
+      "material_type": "Plastic",
+      "recycling_potential": 0.0,
+      "carbon_kg": 5.21,
+      "water_consumption": 2441.57,
+      "fossil_fuel_use": 104.66
+    },
+    "Adhesive": {
+      "material_abbrev": null,
+      "material_type": "Other",
+      "recycling_potential": 0.0,
+      "carbon_kg": 4.39,
+      "water_consumption": 748.65,
+      "fossil_fuel_use": 89.04
+    },
+    "Aluminium": {
+      "material_abbrev": null,
+      "material_type": "Metal",
+      "recycling_potential": 87.0,
+      "carbon_kg": 21.26,
+      "water_consumption": 2376.77,
+      "fossil_fuel_use": 220.9
+    },
+    "Bamboo": {
+      "material_abbrev": null,
+      "material_type": "Wood",
+      "recycling_potential": 47.0,
+      "carbon_kg": 651.49,
+      "water_consumption": 121.85,
+      "fossil_fuel_use": 8.37
+    },
+    "Beechwood": {
+      "material_abbrev": null,
+      "material_type": "Wood",
+      "recycling_potential": 47.0,
+      "carbon_kg": 212.83,
+      "water_consumption": 16.76,
+      "fossil_fuel_use": 2.65
+    },
+    "Carbon Black": {
+      "material_abbrev": null,
+      "material_type": "Other",
+      "recycling_potential": 0.0,
+      "carbon_kg": 2.97,
+      "water_consumption": 162.13,
+      "fossil_fuel_use": 86.69
+    },
+    "Cellulose Acetate": {
+      "material_abbrev": null,
+      "material_type": "Plastic",
+      "recycling_potential": 0.0,
+      "carbon_kg": 21.88,
+      "water_consumption": 6968.22,
+      "fossil_fuel_use": 349.41
+    },
+    "Core Board": {
+      "material_abbrev": null,
+      "material_type": "Paper/Board",
+      "recycling_potential": 55.0,
+      "carbon_kg": 1.68,
+      "water_consumption": 1131.9,
+      "fossil_fuel_use": 15.12
+    },
+    "Cork": {
+      "material_abbrev": null,
+      "material_type": "Wood",
+      "recycling_potential": 0.0,
+      "carbon_kg": 2.17,
+      "water_consumption": 756.38,
+      "fossil_fuel_use": 29.34
+    },
+    "Corrugated": {
+      "material_abbrev": null,
+      "material_type": "Paper/Board",
+      "recycling_potential": 55.0,
+      "carbon_kg": 1.67,
+      "water_consumption": 267.86,
+      "fossil_fuel_use": 13.76
+    },
+    "Corrugated - Bleached": {
+      "material_abbrev": null,
+      "material_type": "Paper/Board",
+      "recycling_potential": 55.0,
+      "carbon_kg": 1.74,
+      "water_consumption": 455.14,
+      "fossil_fuel_use": 15.56
+    },
+    "Cotton": {
+      "material_abbrev": null,
+      "material_type": "Textile",
+      "recycling_potential": 5.0,
+      "carbon_kg": 12.14,
+      "water_consumption": 144632.0,
+      "fossil_fuel_use": 115.61
+    },
+    "Ethyl Vinyl Acetate": {
+      "material_abbrev": "EVA",
+      "material_type": "Plastic",
+      "recycling_potential": 0.0,
+      "carbon_kg": 3.94,
+      "water_consumption": 795.77,
+      "fossil_fuel_use": 90.91
+    },
+    "Ethylene Vinyl Alcohol Copolymer": {
+      "material_abbrev": "EVOH",
+      "material_type": "Plastic",
+      "recycling_potential": 0.0,
+      "carbon_kg": 5.91,
+      "water_consumption": 1247.64,
+      "fossil_fuel_use": 142.43
+    },
+    "Expanded Polystyrene": {
+      "material_abbrev": "EPS",
+      "material_type": "Plastic",
+      "recycling_potential": 0.0,
+      "carbon_kg": 4.31,
+      "water_consumption": 2780.89,
+      "fossil_fuel_use": 94.76
+    },
+    "Folding Box Board": {
+      "material_abbrev": null,
+      "material_type": "Paper/Board",
+      "recycling_potential": 55.0,
+      "carbon_kg": 2.46,
+      "water_consumption": 500.39,
+      "fossil_fuel_use": 26.16
+    },
+    "Glass": {
+      "material_abbrev": null,
+      "material_type": "Glass",
+      "recycling_potential": 59.0,
+      "carbon_kg": 1.22,
+      "water_consumption": 199.8,
+      "fossil_fuel_use": 17.6
+    },
+    "Hardwood": {
+      "material_abbrev": null,
+      "material_type": "Wood",
+      "recycling_potential": 47.0,
+      "carbon_kg": 397.07,
+      "water_consumption": 40.73,
+      "fossil_fuel_use": 5.14
+    },
+    "High-Density Polyethylene": {
+      "material_abbrev": "HDPE",
+      "material_type": "Plastic",
+      "recycling_potential": 13.0,
+      "carbon_kg": 2.2,
+      "water_consumption": 444.75,
+      "fossil_fuel_use": 50.25
+    },
+    "High-Density Polyethylene, Bio": {
+      "material_abbrev": "HDPE, Bio",
+      "material_type": "Plastic",
+      "recycling_potential": 13.0,
+      "carbon_kg": -2773.14,
+      "water_consumption": 822.08,
+      "fossil_fuel_use": -405.38
+    },
+    "Ink - Solvent Based": {
+      "material_abbrev": null,
+      "material_type": "Other",
+      "recycling_potential": 0.0,
+      "carbon_kg": 3.13,
+      "water_consumption": 507.42,
+      "fossil_fuel_use": 60.83
+    },
+    "Ink - Water Based": {
+      "material_abbrev": null,
+      "material_type": "Other",
+      "recycling_potential": 0.0,
+      "carbon_kg": 2.54,
+      "water_consumption": 281.7,
+      "fossil_fuel_use": 31.5
+    },
+    "Kraft Pulp": {
+      "material_abbrev": null,
+      "material_type": "Paper/Board",
+      "recycling_potential": 55.0,
+      "carbon_kg": 6.07,
+      "water_consumption": 2783.78,
+      "fossil_fuel_use": 64.59
+    },
+    "Lightweight Coated Paper": {
+      "material_abbrev": null,
+      "material_type": "Paper/Board",
+      "recycling_potential": 0.0,
+      "carbon_kg": 3.23,
+      "water_consumption": 1082.99,
+      "fossil_fuel_use": 33.04
+    },
+    "Linear Low-Density Polyethylene, Bio": {
+      "material_abbrev": "LLDPE, Bio",
+      "material_type": "Plastic",
+      "recycling_potential": 13.0,
+      "carbon_kg": -2454.0,
+      "water_consumption": 1358.03,
+      "fossil_fuel_use": 10.11
+    },
+    "Low-Density Polyethylene": {
+      "material_abbrev": "LDPE",
+      "material_type": "Plastic",
+      "recycling_potential": 13.0,
+      "carbon_kg": 2.27,
+      "water_consumption": 614.8,
+      "fossil_fuel_use": 51.21
+    },
+    "Metal - Other": {
+      "material_abbrev": null,
+      "material_type": "Metal",
+      "recycling_potential": 0.0,
+      "carbon_kg": 40.730442,
+      "water_consumption": 5636.9,
+      "fossil_fuel_use": 245.718
+    },
+    "Neodymium Magnet": {
+      "material_abbrev": null,
+      "material_type": "Other",
+      "recycling_potential": 0.0,
+      "carbon_kg": 31.64,
+      "water_consumption": 9796.37,
+      "fossil_fuel_use": 371.09
+    },
+    "Nylon": {
+      "material_abbrev": null,
+      "material_type": "Textile",
+      "recycling_potential": 0.0,
+      "carbon_kg": 9.93,
+      "water_consumption": 2986.62,
+      "fossil_fuel_use": 128.48
+    },
+    "Other - Other Material": {
+      "material_abbrev": null,
+      "material_type": "Other",
+      "recycling_potential": 0.0,
+      "carbon_kg": 40.730442,
+      "water_consumption": 5636.9,
+      "fossil_fuel_use": 245.718
+    },
+    "Paper - Bamboo": {
+      "material_abbrev": null,
+      "material_type": "Paper/Board",
+      "recycling_potential": 55.0,
+      "carbon_kg": 2.94,
+      "water_consumption": 1610.21,
+      "fossil_fuel_use": 28.42
+    },
+    "Paper - Bleached Kraft": {
+      "material_abbrev": null,
+      "material_type": "Paper/Board",
+      "recycling_potential": 55.0,
+      "carbon_kg": 1.73,
+      "water_consumption": 919.43,
+      "fossil_fuel_use": 13.98
+    },
+    "Paper - Label": {
+      "material_abbrev": null,
+      "material_type": "Paper/Board",
+      "recycling_potential": 55.0,
+      "carbon_kg": 1.88,
+      "water_consumption": 1745.54,
+      "fossil_fuel_use": 21.2
+    },
+    "Paper - Tissue": {
+      "material_abbrev": null,
+      "material_type": "Paper/Board",
+      "recycling_potential": 55.0,
+      "carbon_kg": 3.46,
+      "water_consumption": 1287.7,
+      "fossil_fuel_use": 38.1
+    },
+    "Paper - Unbleached Kraft": {
+      "material_abbrev": null,
+      "material_type": "Paper/Board",
+      "recycling_potential": 55.0,
+      "carbon_kg": 1.39,
+      "water_consumption": 928.56,
+      "fossil_fuel_use": 13.53
+    },
+    "Paper - Viscose": {
+      "material_abbrev": null,
+      "material_type": "Paper/Board",
+      "recycling_potential": 55.0,
+      "carbon_kg": 7.69,
+      "water_consumption": 6481.44,
+      "fossil_fuel_use": 91.31
+    },
+    "Paper/Board - Other": {
+      "material_abbrev": null,
+      "material_type": "Paper/Board",
+      "recycling_potential": 0.0,
+      "carbon_kg": 40.730442,
+      "water_consumption": 5636.9,
+      "fossil_fuel_use": 245.718
+    },
+    "Paraffin Wax": {
+      "material_abbrev": null,
+      "material_type": "Other",
+      "recycling_potential": 0.0,
+      "carbon_kg": 1.28,
+      "water_consumption": 116.71,
+      "fossil_fuel_use": 57.51
+    },
+    "Plastic - Other": {
+      "material_abbrev": null,
+      "material_type": "Plastic",
+      "recycling_potential": 0.0,
+      "carbon_kg": 40.730442,
+      "water_consumption": 5636.9,
+      "fossil_fuel_use": 245.718
+    },
+    "Polybutylene Adipate Terepthalate": {
+      "material_abbrev": "PBAT",
+      "material_type": "Plastic",
+      "recycling_potential": 0.0,
+      "carbon_kg": 10.7,
+      "water_consumption": 4780.54,
+      "fossil_fuel_use": 109.99
+    },
+    "Polycarbonate": {
+      "material_abbrev": null,
+      "material_type": "Other",
+      "recycling_potential": 0.0,
+      "carbon_kg": 6.71,
+      "water_consumption": 1666.95,
+      "fossil_fuel_use": 124.06
+    },
+    "Polyester": {
+      "material_abbrev": null,
+      "material_type": "Textile",
+      "recycling_potential": 0.0,
+      "carbon_kg": 4.25,
+      "water_consumption": 743.58,
+      "fossil_fuel_use": 86.75
+    },
+    "Polyethylene Terephthalate": {
+      "material_abbrev": "PET",
+      "material_type": "Plastic",
+      "recycling_potential": 13.0,
+      "carbon_kg": 2.85,
+      "water_consumption": 459.52,
+      "fossil_fuel_use": 51.62
+    },
+    "Polylactic Acid": {
+      "material_abbrev": "PLA",
+      "material_type": "Plastic",
+      "recycling_potential": 0.0,
+      "carbon_kg": 3.41,
+      "water_consumption": 4956.56,
+      "fossil_fuel_use": 43.62
+    },
+    "Polyoxymethylene": {
+      "material_abbrev": "POM",
+      "material_type": "Plastic",
+      "recycling_potential": 0.0,
+      "carbon_kg": 3.87,
+      "water_consumption": 1306.78,
+      "fossil_fuel_use": 80.94
+    },
+    "Polypropylene": {
+      "material_abbrev": "PP",
+      "material_type": "Plastic",
+      "recycling_potential": 13.0,
+      "carbon_kg": 2.29,
+      "water_consumption": 399.08,
+      "fossil_fuel_use": 51.54
+    },
+    "Polystyrene": {
+      "material_abbrev": "PS",
+      "material_type": "Plastic",
+      "recycling_potential": 0.0,
+      "carbon_kg": 3.37,
+      "water_consumption": 1182.31,
+      "fossil_fuel_use": 52.41
+    },
+    "Polyurethane": {
+      "material_abbrev": "PU",
+      "material_type": "Plastic",
+      "recycling_potential": 0.0,
+      "carbon_kg": 7.04,
+      "water_consumption": 1921.4,
+      "fossil_fuel_use": 115.01
+    },
+    "Polyvinyl Alcohol": {
+      "material_abbrev": "PVOH",
+      "material_type": "Plastic",
+      "recycling_potential": 0.0,
+      "carbon_kg": 11.9,
+      "water_consumption": 4188.82,
+      "fossil_fuel_use": 212.46
+    },
+    "Polyvinyl Chloride": {
+      "material_abbrev": "PVC",
+      "material_type": "Plastic",
+      "recycling_potential": 0.0,
+      "carbon_kg": 3.24,
+      "water_consumption": 1969.48,
+      "fossil_fuel_use": 60.71
+    },
+    "Pulp - Bagasse": {
+      "material_abbrev": null,
+      "material_type": "Paper/Board",
+      "recycling_potential": 55.0,
+      "carbon_kg": 6.11,
+      "water_consumption": 2537.62,
+      "fossil_fuel_use": 64.91
+    },
+    "Pulp - Bamboo": {
+      "material_abbrev": null,
+      "material_type": "Paper/Board",
+      "recycling_potential": 55.0,
+      "carbon_kg": 6.04,
+      "water_consumption": 2254.23,
+      "fossil_fuel_use": 62.74
+    },
+    "Pulp - Hardwood": {
+      "material_abbrev": null,
+      "material_type": "Paper/Board",
+      "recycling_potential": 55.0,
+      "carbon_kg": 6.56,
+      "water_consumption": 2545.07,
+      "fossil_fuel_use": 66.04
+    },
+    "Pulp - Softwood": {
+      "material_abbrev": null,
+      "material_type": "Paper/Board",
+      "recycling_potential": 55.0,
+      "carbon_kg": 6.6,
+      "water_consumption": 2547.15,
+      "fossil_fuel_use": 66.51
+    },
+    "Rubber - Silicone": {
+      "material_abbrev": null,
+      "material_type": "Other",
+      "recycling_potential": 0.0,
+      "carbon_kg": 3.73,
+      "water_consumption": 4526.4,
+      "fossil_fuel_use": 59.45
+    },
+    "Silica Gel": {
+      "material_abbrev": null,
+      "material_type": "Other",
+      "recycling_potential": 0.0,
+      "carbon_kg": 1.72,
+      "water_consumption": 944.64,
+      "fossil_fuel_use": 21.76
+    },
+    "Softwood": {
+      "material_abbrev": null,
+      "material_type": "Wood",
+      "recycling_potential": 47.0,
+      "carbon_kg": 431.97,
+      "water_consumption": 41.5,
+      "fossil_fuel_use": 5.62
+    },
+    "Solid Bleached Board": {
+      "material_abbrev": null,
+      "material_type": "Paper/Board",
+      "recycling_potential": 55.0,
+      "carbon_kg": 2.18,
+      "water_consumption": 332.24,
+      "fossil_fuel_use": 21.62
+    },
+    "Solid Unbleached Board": {
+      "material_abbrev": null,
+      "material_type": "Paper/Board",
+      "recycling_potential": 55.0,
+      "carbon_kg": 2.18,
+      "water_consumption": 332.24,
+      "fossil_fuel_use": 21.62
+    },
+    "Stainless Steel": {
+      "material_abbrev": null,
+      "material_type": "Metal",
+      "recycling_potential": 87.0,
+      "carbon_kg": 2.97,
+      "water_consumption": 965.38,
+      "fossil_fuel_use": 36.75
+    },
+    "Steel": {
+      "material_abbrev": null,
+      "material_type": "Metal",
+      "recycling_potential": 87.0,
+      "carbon_kg": 1.64,
+      "water_consumption": 543.87,
+      "fossil_fuel_use": 19.83
+    },
+    "Talc": {
+      "material_abbrev": null,
+      "material_type": "Other",
+      "recycling_potential": 0.0,
+      "carbon_kg": 330.38,
+      "water_consumption": 72.32,
+      "fossil_fuel_use": 4.86
+    },
+    "Tin": {
+      "material_abbrev": null,
+      "material_type": "Metal",
+      "recycling_potential": 87.0,
+      "carbon_kg": 10.26,
+      "water_consumption": 5932.91,
+      "fossil_fuel_use": 141.91
+    },
+    "White Lined Chipboard": {
+      "material_abbrev": null,
+      "material_type": "Paper/Board",
+      "recycling_potential": 55.0,
+      "carbon_kg": 2.46,
+      "water_consumption": 500.39,
+      "fossil_fuel_use": 26.16
+    },
+    "Zinc Oxide": {
+      "material_abbrev": null,
+      "material_type": "Other",
+      "recycling_potential": 0.0,
+      "carbon_kg": 1.52,
+      "water_consumption": 162.18,
+      "fossil_fuel_use": 14.77
+    }
+  }
+}

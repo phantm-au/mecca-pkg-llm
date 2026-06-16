@@ -1,0 +1,28 @@
+# dataset/ — raw source dataset (NOT in git)
+
+This folder is kept in the repo, but its contents are **git-ignored** because the files are
+large (~440 MB total) and binary-ish. Git only tracks this `.gitkeep` placeholder.
+
+## What goes here
+
+Download the dataset files from Google Drive and drop them directly into this `dataset/` folder:
+
+Expected files (run: `mecca-pkg-llm/dataset/`):
+
+| File                | Size    | What it is                                                        |
+|---------------------|---------|-------------------------------------------------------------------|
+| `products.jsonl`    | ~212 MB | 49,881 lipstick products (nested product + PP/SP/TP packaging BOM) |
+| `material_view.csv` | ~225 MB | 676,181 flattened per-material rows (one row per material entry)   |
+| `batch_job.json`    | ~8 MB   | Original generation batch job record                              |
+| `manifest.json`     | ~1 KB   | Run metadata (run_id, target=Lipstick, stats, file map)           |
+
+## Why it's needed
+
+`scripts/01_extract_chunk.py` reads `dataset/products.jsonl` as the entry point of the whole
+pipeline (see RUNBOOK step 1). Without these files the data-prep steps cannot run — but if you
+are only **deploying / using an already-trained model** (RUNBOOK step 5), you do NOT need them.
+
+After copying the files in, verify:
+
+    ls -lh dataset/        # should show the 4 files above
+    wc -l dataset/products.jsonl   # expect 49881 lines

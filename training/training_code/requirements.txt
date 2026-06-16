@@ -1,0 +1,21 @@
+# Installed by SageMaker into the training container ON TOP OF the base HF DLC
+# (which ships torch 2.5.1 + cu124). PINS ARE EXACT on purpose:
+#
+#   The base DLC has torch 2.5.1. An unpinned `transformers>=4.50` resolves to
+#   transformers 5.x, which references torch.float8_e8m0fnu — a dtype that only
+#   exists in newer torch — and crashes on import ("module 'torch' has no
+#   attribute 'float8_e8m0fnu'"). So pin to the last 4.5x line that (a) has full
+#   Gemma 3 support and (b) works with torch 2.5.1. 4.51.3 is the version AWS
+#   itself recommends for Gemma and is battle-tested with this DLC.
+#
+# If you ever bump these, bump torch too (or move to a DLC with newer torch).
+transformers==4.51.3
+tokenizers==0.21.1
+huggingface-hub==0.30.2
+trl==0.15.2
+peft==0.14.0
+accelerate==1.4.0
+bitsandbytes==0.45.3
+datasets==3.3.2
+safetensors==0.5.3
+sentencepiece==0.2.0

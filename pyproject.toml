@@ -1,0 +1,29 @@
+[project]
+name = "mecca-pkg-llm"
+version = "0.1.0"
+description = "Fine-tune Google Gemma 3 (vision) for packaging/box recommendation, served on SageMaker. 2-step inference: image -> caption (zero-shot) -> BOM (fine-tuned, text-only)."
+readme = "README.md"
+requires-python = ">=3.10"
+
+dependencies = [
+    "pandas>=2.2",
+    "pyarrow>=16",
+    "datasketch>=1.6",
+    "orjson>=3.10",
+    "tqdm>=4.66",
+    "boto3>=1.34", 
+    "sagemaker>=2.230,<3",
+    "streamlit>=1.40",
+    "pillow>=10.4",
+    "python-dotenv>=1.0",
+]
+
+[project.optional-dependencies]
+dpk = ["data-prep-toolkit-transforms>=1.0"]
+
+[tool.uv]
+package = false
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
