@@ -1,7 +1,7 @@
 # mecca-pkg-llm - Packaging-recommendation model (Gemma 3, SageMaker)
 
-Fine-tune **Google Gemma 3** (vision-capable) for **packaging / box recommendation**, trained and
-served **entirely in SageMaker** (no Bedrock). This is a focused, single-task model.
+Fine-tune **Google Gemma 3** (VL for **packaging / box recommendation**, trained and
+served **in SageMaker**.
 
 ## Documentation
 
